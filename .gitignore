@@ -1,0 +1,9 @@
+# API keys
+.env
+
+# Source corpus: mined review text is not redistributed
+private/
+
+# Python
+__pycache__/
+.venv/

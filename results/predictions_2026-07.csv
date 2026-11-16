@@ -1,0 +1,2334 @@
+review_id,model_label,predicted_sentiment,raw_response
+self_113,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_118,Groq-2 (openai/gpt-oss-20b),negative,negative
+be8af2af,Claude Sonnet,positive,positive
+self_069,Claude Sonnet,positive,positive
+a72c83e7,GPT-5.5,negative,negative
+self_118,Claude Sonnet,negative,negative
+dc20bb4a,Groq-1 (qwen/qwen3.6-27b),negative,negative
+6e4058c4,Claude Sonnet,negative,negative
+b065b82d,Groq-2 (openai/gpt-oss-20b),negative,negative
+a72c83e7,Claude Sonnet,negative,negative
+self_085,Claude Sonnet,mixed,mixed
+self_080,Groq-2 (openai/gpt-oss-20b),negative,negative
+4c9f516e,Claude Sonnet,negative,negative
+6e4058c4,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_077,GPT-5.5,positive,positive
+1d09018e,Claude Sonnet,positive,positive
+86f2809d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_081,GPT-5.5,negative,negative
+41299b0b,GPT-5.5,negative,negative
+2d0b8fd5,Claude Sonnet,negative,negative
+87f88e6e,Groq-1 (qwen/qwen3.6-27b),positive,positive
+cb8dd9da,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_112,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_060,Groq-2 (openai/gpt-oss-20b),positive,positive
+8dee0501,Groq-1 (qwen/qwen3.6-27b),negative,negative
+473b5634,Groq-2 (openai/gpt-oss-20b),positive,positive
+a5c0e6c7,GPT-5.5,negative,negative
+self_003,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_100,GPT-5.5,negative,negative
+ee47c688,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_101,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+e0697ddb,Groq-1 (qwen/qwen3.6-27b),negative,negative
+08350da3,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_104,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_088,GPT-5.5,positive,positive
+7985ec2e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_037,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_111,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+61473d9f,Claude Sonnet,negative,negative
+d22fcf74,Claude Sonnet,negative,negative
+bb803bc9,Groq-2 (openai/gpt-oss-20b),negative,negative
+d379bd3b,Groq-2 (openai/gpt-oss-20b),negative,negative
+f2b89358,Groq-2 (openai/gpt-oss-20b),positive,positive
+f3e1bae7,Groq-2 (openai/gpt-oss-20b),negative,negative
+6728b214,Groq-2 (openai/gpt-oss-20b),positive,positive
+f468ebda,Groq-2 (openai/gpt-oss-20b),negative,negative
+50bdae04,Claude Sonnet,negative,negative
+self_010,Groq-2 (openai/gpt-oss-20b),positive,positive
+50da5552,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_030,Claude Sonnet,negative,negative
+self_025,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+b5ffb98d,GPT-5.5,negative,negative
+b7682251,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_019,Groq-2 (openai/gpt-oss-20b),negative,negative
+0e40a483,Groq-2 (openai/gpt-oss-20b),negative,negative
+242de514,Groq-2 (openai/gpt-oss-20b),positive,positive
+ac18aa51,GPT-5.5,negative,negative
+f1fe68dc,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_039,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_115,Claude Sonnet,negative,negative
+self_038,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_027,Claude Sonnet,negative,negative
+b0b78093,GPT-5.5,positive,positive
+a25d8456,Claude Sonnet,negative,negative
+ef967936,Groq-2 (openai/gpt-oss-20b),negative,negative
+b7682251,GPT-5.5,negative,negative
+f92b9824,Groq-2 (openai/gpt-oss-20b),positive,positive
+8dee0501,GPT-5.5,negative,negative
+c09c3e07,GPT-5.5,negative,negative
+bf5a9045,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1709a415,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_093,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_009,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+21dd3549,Groq-2 (openai/gpt-oss-20b),negative,negative
+5bbd49da,GPT-5.5,negative,negative
+9fd0355f,GPT-5.5,positive,positive
+self_099,Groq-1 (qwen/qwen3.6-27b),positive,positive
+1af6a8e2,Groq-2 (openai/gpt-oss-20b),negative,negative
+b5ffb98d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+abcbcac2,Claude Sonnet,negative,negative
+self_019,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_053,GPT-5.5,negative,negative
+self_106,GPT-5.5,negative,negative
+self_092,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_030,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2f7ce106,GPT-5.5,negative,negative
+fd53b315,GPT-5.5,positive,positive
+08350da3,Groq-1 (qwen/qwen3.6-27b),negative,negative
+0fdae536,Claude Sonnet,negative,negative
+self_096,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_008,Claude Sonnet,positive,positive
+3048c104,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a72c83e7,Groq-2 (openai/gpt-oss-20b),negative,negative
+3a6b7d97,Claude Sonnet,negative,negative
+self_017,Claude Sonnet,positive,positive
+dcb08696,Groq-2 (openai/gpt-oss-20b),negative,negative
+dc44f136,Groq-1 (qwen/qwen3.6-27b),negative,negative
+867f5c30,Claude Sonnet,negative,negative
+242de514,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+471ed9ae,Claude Sonnet,negative,negative
+242de514,Claude Sonnet,neutral,neutral
+self_044,Groq-1 (qwen/qwen3.6-27b),negative,negative
+50bdae04,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_002,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_046,GPT-5.5,mixed,mixed
+f00ce22d,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+9e0ca5c6,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+2405262e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a40aa278,Groq-2 (openai/gpt-oss-20b),positive,positive
+6bd2fbb5,GPT-5.5,positive,positive
+8c74c249,Claude Sonnet,negative,negative
+81c176c4,Claude Sonnet,negative,negative
+6e74c802,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_032,Groq-2 (openai/gpt-oss-20b),negative,negative
+8c74c249,Groq-2 (openai/gpt-oss-20b),negative,negative
+35053c9a,Claude Sonnet,positive,positive
+787769a2,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_050,GPT-5.5,negative,negative
+86f2809d,Groq-2 (openai/gpt-oss-20b),negative,negative
+47cce6db,GPT-5.5,negative,negative
+self_112,GPT-5.5,positive,positive
+self_041,GPT-5.5,mixed,mixed
+882d4036,Groq-2 (openai/gpt-oss-20b),negative,negative
+04d2196e,Claude Sonnet,positive,positive
+self_054,Claude Sonnet,negative,negative
+68227bfb,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_095,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_000,Claude Sonnet,positive,positive
+471ed9ae,GPT-5.5,negative,negative
+self_083,GPT-5.5,negative,negative
+f468ebda,GPT-5.5,negative,negative
+13419ac9,Claude Sonnet,positive,positive
+2eca9095,Groq-2 (openai/gpt-oss-20b),negative,negative
+af1b20f5,GPT-5.5,positive,positive
+948a628e,GPT-5.5,negative,negative
+882d4036,Groq-1 (qwen/qwen3.6-27b),negative,negative
+5bbd49da,Claude Sonnet,negative,negative
+self_049,Groq-2 (openai/gpt-oss-20b),negative,negative
+04d2196e,GPT-5.5,positive,positive
+5ceb3ab0,Groq-1 (qwen/qwen3.6-27b),negative,negative
+0779d752,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_069,GPT-5.5,positive,positive
+3048c104,GPT-5.5,negative,negative
+self_026,Groq-1 (qwen/qwen3.6-27b),positive,positive
+5e54658e,Groq-2 (openai/gpt-oss-20b),negative,negative
+6728b214,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_002,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2b787198,Claude Sonnet,neutral,neutral
+self_053,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_029,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_079,Claude Sonnet,negative,negative
+self_066,Claude Sonnet,positive,positive
+603ebcfe,Claude Sonnet,negative,negative
+self_068,Claude Sonnet,negative,negative
+self_040,Claude Sonnet,negative,negative
+795816fa,GPT-5.5,negative,negative
+self_064,Claude Sonnet,neutral,neutral
+f60e51a1,GPT-5.5,positive,positive
+b2f84f02,GPT-5.5,negative,negative
+168a2e00,Groq-2 (openai/gpt-oss-20b),negative,negative
+82a22fb1,Groq-1 (qwen/qwen3.6-27b),negative,negative
+bf5a9045,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_107,Claude Sonnet,positive,positive
+self_058,GPT-5.5,negative,negative
+self_085,GPT-5.5,mixed,mixed
+self_060,Claude Sonnet,positive,positive
+self_060,GPT-5.5,positive,positive
+87657e78,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_035,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_051,GPT-5.5,positive,positive
+6000a331,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_006,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+7fa5a522,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_116,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_022,GPT-5.5,negative,negative
+self_070,Groq-1 (qwen/qwen3.6-27b),negative,negative
+13a27ed7,Claude Sonnet,positive,positive
+ec92939f,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_009,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+05b4f75b,GPT-5.5,positive,positive
+b14ffb79,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_107,Groq-1 (qwen/qwen3.6-27b),positive,positive
+86b4e680,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+b2f84f02,Claude Sonnet,negative,negative
+f273c9b7,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_031,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_113,GPT-5.5,negative,negative
+2d0b8fd5,Groq-2 (openai/gpt-oss-20b),negative,negative
+9c779b18,GPT-5.5,positive,positive
+self_099,Groq-2 (openai/gpt-oss-20b),positive,positive
+7504bb1d,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+a808f728,Claude Sonnet,negative,negative
+self_094,GPT-5.5,mixed,mixed
+a40aa278,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_104,Claude Sonnet,negative,negative
+87f88e6e,Groq-2 (openai/gpt-oss-20b),positive,positive
+9c779b18,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_047,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2bbd52fc,Groq-2 (openai/gpt-oss-20b),positive,positive
+87657e78,Groq-2 (openai/gpt-oss-20b),negative,negative
+f00ce22d,GPT-5.5,positive,positive
+41299b0b,Claude Sonnet,negative,negative
+fb99907d,GPT-5.5,negative,negative
+76a4c99a,GPT-5.5,positive,positive
+9503a560,Claude Sonnet,mixed,mixed
+def41499,Groq-2 (openai/gpt-oss-20b),negative,negative
+0779d752,GPT-5.5,mixed,mixed
+76a4c99a,Claude Sonnet,positive,positive
+79aa3862,GPT-5.5,negative,negative
+self_059,Claude Sonnet,neutral,neutral
+self_012,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_049,Claude Sonnet,negative,negative
+self_112,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_027,GPT-5.5,negative,negative
+c9495991,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+91438acf,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+6d0050a4,Claude Sonnet,negative,negative
+32be53ee,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1015166e,Claude Sonnet,positive,positive
+6e4058c4,GPT-5.5,negative,negative
+self_068,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_039,GPT-5.5,negative,negative
+7eb480f8,Claude Sonnet,negative,negative
+self_089,Groq-2 (openai/gpt-oss-20b),negative,negative
+6b902b43,Claude Sonnet,negative,negative
+self_005,GPT-5.5,negative,negative
+self_115,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_103,GPT-5.5,negative,negative
+fd53b315,Claude Sonnet,positive,positive
+2b787198,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+24f3a110,Claude Sonnet,negative,negative
+self_073,Groq-2 (openai/gpt-oss-20b),positive,positive
+6f199a93,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_021,Groq-1 (qwen/qwen3.6-27b),positive,positive
+fcc1e34e,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_102,Groq-2 (openai/gpt-oss-20b),positive,positive
+163cda9a,Groq-1 (qwen/qwen3.6-27b),negative,negative
+6db4635d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+cb96b117,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_103,Groq-1 (qwen/qwen3.6-27b),negative,negative
+9e0ca5c6,Claude Sonnet,mixed,mixed
+b61e559a,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_071,Groq-2 (openai/gpt-oss-20b),positive,positive
+9a4a8453,Claude Sonnet,mixed,mixed
+c65d836e,GPT-5.5,negative,negative
+d379bd3b,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_087,Claude Sonnet,positive,positive
+af4ca369,GPT-5.5,positive,positive
+self_040,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_100,Groq-2 (openai/gpt-oss-20b),negative,negative
+b5161571,GPT-5.5,neutral,neutral
+self_081,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+f491ec88,GPT-5.5,positive,positive
+dd659a35,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_062,Claude Sonnet,negative,negative
+0779d752,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+d7b9b3de,Groq-1 (qwen/qwen3.6-27b),negative,negative
+f491ec88,Groq-2 (openai/gpt-oss-20b),positive,positive
+58803b86,Claude Sonnet,negative,negative
+d11f8fbc,Groq-1 (qwen/qwen3.6-27b),negative,negative
+13a27ed7,Groq-2 (openai/gpt-oss-20b),positive,positive
+b065b82d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a72c83e7,Groq-1 (qwen/qwen3.6-27b),negative,negative
+06fed2b1,GPT-5.5,negative,negative
+self_064,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+fcc1e34e,Claude Sonnet,neutral,neutral
+f79bfff3,Groq-1 (qwen/qwen3.6-27b),negative,negative
+f79bfff3,GPT-5.5,negative,negative
+self_034,Claude Sonnet,mixed,mixed
+self_023,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_059,GPT-5.5,mixed,mixed
+d6e7e2b6,Groq-1 (qwen/qwen3.6-27b),positive,positive
+7985ec2e,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_048,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_095,Claude Sonnet,negative,negative
+9a4a8453,Groq-2 (openai/gpt-oss-20b),negative,negative
+4672ad0f,Claude Sonnet,positive,positive
+3b02e26a,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2b787198,GPT-5.5,neutral,neutral
+self_038,Claude Sonnet,negative,negative
+283219d4,Groq-1 (qwen/qwen3.6-27b),negative,negative
+f00ce22d,Groq-2 (openai/gpt-oss-20b),positive,positive
+2db3e1fb,Claude Sonnet,negative,negative
+self_086,Claude Sonnet,negative,negative
+787769a2,GPT-5.5,negative,negative
+1d348a58,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_061,GPT-5.5,negative,negative
+f247d804,GPT-5.5,negative,negative
+821ac920,GPT-5.5,negative,negative
+a11e4f82,Claude Sonnet,negative,negative
+467b229b,GPT-5.5,negative,negative
+6db4635d,GPT-5.5,negative,negative
+06fed2b1,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_099,Claude Sonnet,positive,positive
+self_031,Claude Sonnet,positive,positive
+ec92939f,Claude Sonnet,positive,positive
+4c016fd0,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_056,Claude Sonnet,positive,positive
+867f5c30,Groq-2 (openai/gpt-oss-20b),negative,negative
+a40aa278,Claude Sonnet,positive,positive
+d6e7e2b6,GPT-5.5,positive,positive
+2bbd52fc,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_059,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+91438acf,GPT-5.5,positive,positive
+d6e7e2b6,Groq-2 (openai/gpt-oss-20b),positive,positive
+6f199a93,Claude Sonnet,positive,positive
+47cce6db,Groq-1 (qwen/qwen3.6-27b),negative,negative
+80648800,Groq-1 (qwen/qwen3.6-27b),negative,negative
+c5990fde,Groq-2 (openai/gpt-oss-20b),negative,negative
+dabcbadb,Groq-1 (qwen/qwen3.6-27b),negative,negative
+61473d9f,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_035,GPT-5.5,mixed,mixed
+1709a415,Groq-2 (openai/gpt-oss-20b),negative,negative
+cd406b3b,GPT-5.5,negative,negative
+900dab3c,Claude Sonnet,positive,positive
+47cce6db,Groq-2 (openai/gpt-oss-20b),negative,negative
+9e0ca5c6,GPT-5.5,mixed,mixed
+self_074,Groq-1 (qwen/qwen3.6-27b),positive,positive
+823ffb67,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_062,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_086,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+97c1326d,GPT-5.5,negative,negative
+cb96b117,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_077,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_082,Claude Sonnet,mixed,mixed
+8c689050,Groq-2 (openai/gpt-oss-20b),negative,negative
+8c689050,Claude Sonnet,negative,negative
+f1b95b5c,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+75c68eee,Groq-1 (qwen/qwen3.6-27b),negative,negative
+6994ad64,Claude Sonnet,negative,negative
+self_008,Groq-1 (qwen/qwen3.6-27b),positive,positive
+0d8fe691,Claude Sonnet,negative,negative
+603ebcfe,GPT-5.5,mixed,mixed
+self_033,Claude Sonnet,negative,negative
+21dd3549,Groq-1 (qwen/qwen3.6-27b),negative,negative
+04d2196e,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_120,Groq-2 (openai/gpt-oss-20b),positive,positive
+cdf2e588,Claude Sonnet,negative,negative
+4c016fd0,Claude Sonnet,negative,negative
+71bcfe94,GPT-5.5,negative,negative
+self_027,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_117,Groq-1 (qwen/qwen3.6-27b),positive,positive
+13419ac9,Groq-1 (qwen/qwen3.6-27b),positive,positive
+cd406b3b,Groq-2 (openai/gpt-oss-20b),negative,negative
+795816fa,Claude Sonnet,negative,negative
+self_044,Groq-2 (openai/gpt-oss-20b),negative,negative
+79aa3862,Groq-1 (qwen/qwen3.6-27b),negative,negative
+f273c9b7,Claude Sonnet,negative,negative
+self_089,Claude Sonnet,negative,negative
+3a6b7d97,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_013,Groq-2 (openai/gpt-oss-20b),negative,negative
+043d696d,Claude Sonnet,negative,negative
+f92b9824,GPT-5.5,mixed,mixed
+c65d836e,Claude Sonnet,negative,negative
+cc6ca074,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_100,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a5c0e6c7,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_104,GPT-5.5,negative,negative
+self_024,Claude Sonnet,negative,negative
+e1eb49e7,GPT-5.5,negative,negative
+af4ca369,Groq-1 (qwen/qwen3.6-27b),positive,positive
+5ceb3ab0,Claude Sonnet,negative,negative
+168a2e00,GPT-5.5,negative,negative
+self_020,Groq-2 (openai/gpt-oss-20b),positive,positive
+f2b89358,Claude Sonnet,positive,positive
+196cbd4d,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+4672ad0f,GPT-5.5,positive,positive
+self_043,GPT-5.5,positive,positive
+3e6b274d,Claude Sonnet,negative,negative
+2bb89098,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_067,Claude Sonnet,mixed,mixed
+c2145ec4,GPT-5.5,negative,negative
+self_105,Groq-1 (qwen/qwen3.6-27b),positive,positive
+6bd2fbb5,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_098,GPT-5.5,negative,negative
+5704871c,GPT-5.5,positive,positive
+cdfb60c1,GPT-5.5,positive,positive
+self_091,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_017,Groq-1 (qwen/qwen3.6-27b),positive,positive
+76a4c99a,Groq-2 (openai/gpt-oss-20b),positive,positive
+e0697ddb,GPT-5.5,negative,negative
+self_085,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+6db4635d,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_098,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1d348a58,GPT-5.5,negative,negative
+dabcbadb,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_021,Claude Sonnet,positive,positive
+b61e559a,Claude Sonnet,negative,negative
+self_071,GPT-5.5,positive,positive
+6d0050a4,Groq-2 (openai/gpt-oss-20b),negative,negative
+6994ad64,Groq-1 (qwen/qwen3.6-27b),negative,negative
+dabcbadb,GPT-5.5,negative,negative
+22a83408,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_029,Claude Sonnet,negative,negative
+self_080,Groq-1 (qwen/qwen3.6-27b),negative,negative
+35053c9a,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_120,Claude Sonnet,positive,positive
+self_008,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_095,GPT-5.5,negative,negative
+2eca9095,GPT-5.5,negative,negative
+self_054,Groq-1 (qwen/qwen3.6-27b),negative,negative
+311dacc5,Claude Sonnet,negative,negative
+2a9f640f,Claude Sonnet,negative,negative
+self_033,Groq-2 (openai/gpt-oss-20b),negative,negative
+dd659a35,Claude Sonnet,negative,negative
+81cb4820,GPT-5.5,positive,positive
+self_067,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_074,GPT-5.5,positive,positive
+b14ffb79,GPT-5.5,positive,positive
+self_120,GPT-5.5,positive,positive
+0fdae536,GPT-5.5,negative,negative
+5ceb3ab0,GPT-5.5,negative,negative
+d11f8fbc,Claude Sonnet,negative,negative
+6000a331,Groq-1 (qwen/qwen3.6-27b),negative,negative
+4e3ce4c4,Groq-1 (qwen/qwen3.6-27b),negative,negative
+91438acf,Groq-2 (openai/gpt-oss-20b),positive,positive
+900dab3c,Groq-1 (qwen/qwen3.6-27b),positive,positive
+f2b89358,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_064,GPT-5.5,neutral,neutral
+self_026,Claude Sonnet,positive,positive
+f273c9b7,GPT-5.5,negative,negative
+self_073,GPT-5.5,mixed,mixed
+self_065,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_075,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+13a27ed7,GPT-5.5,positive,positive
+ef967936,GPT-5.5,negative,negative
+06fed2b1,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_023,Claude Sonnet,positive,positive
+self_057,GPT-5.5,negative,negative
+f468ebda,Claude Sonnet,negative,negative
+909d0c60,Groq-2 (openai/gpt-oss-20b),positive,positive
+80648800,GPT-5.5,negative,negative
+self_011,Claude Sonnet,positive,positive
+a11e4f82,Groq-1 (qwen/qwen3.6-27b),negative,negative
+6d0050a4,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_020,Groq-1 (qwen/qwen3.6-27b),positive,positive
+3b02e26a,Claude Sonnet,negative,negative
+self_038,GPT-5.5,negative,negative
+2f7ce106,Groq-1 (qwen/qwen3.6-27b),negative,negative
+b14ffb79,Claude Sonnet,positive,positive
+self_069,Groq-2 (openai/gpt-oss-20b),positive,positive
+67fc1984,Claude Sonnet,negative,negative
+7504bb1d,Claude Sonnet,neutral,neutral
+def41499,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_068,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1cab96a3,Claude Sonnet,negative,negative
+self_076,GPT-5.5,positive,positive
+b41ac6e8,Groq-2 (openai/gpt-oss-20b),negative,negative
+68227bfb,GPT-5.5,positive,positive
+4672ad0f,Groq-2 (openai/gpt-oss-20b),positive,positive
+76a4c99a,Groq-1 (qwen/qwen3.6-27b),positive,positive
+2a9f640f,Groq-1 (qwen/qwen3.6-27b),negative,negative
+81c176c4,Groq-2 (openai/gpt-oss-20b),negative,negative
+cb8dd9da,GPT-5.5,negative,negative
+self_074,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_103,Groq-2 (openai/gpt-oss-20b),negative,negative
+467b229b,Groq-2 (openai/gpt-oss-20b),negative,negative
+163cda9a,GPT-5.5,negative,negative
+self_056,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_003,Groq-2 (openai/gpt-oss-20b),negative,negative
+ab839b24,Claude Sonnet,negative,negative
+self_098,Claude Sonnet,negative,negative
+self_060,Groq-1 (qwen/qwen3.6-27b),positive,positive
+0779d752,Claude Sonnet,positive,positive
+6d0050a4,GPT-5.5,negative,negative
+self_102,Groq-1 (qwen/qwen3.6-27b),positive,positive
+21dd3549,Claude Sonnet,negative,negative
+3b02e26a,Groq-2 (openai/gpt-oss-20b),negative,negative
+abcbcac2,Groq-2 (openai/gpt-oss-20b),negative,negative
+787769a2,Groq-2 (openai/gpt-oss-20b),negative,negative
+1cab96a3,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_078,GPT-5.5,neutral,neutral
+27179227,Groq-1 (qwen/qwen3.6-27b),positive,positive
+67fc1984,Groq-1 (qwen/qwen3.6-27b),negative,negative
+337ba332,Groq-2 (openai/gpt-oss-20b),negative,negative
+35053c9a,GPT-5.5,positive,positive
+473b5634,Claude Sonnet,positive,positive
+4efe618a,GPT-5.5,positive,positive
+50bdae04,GPT-5.5,negative,negative
+ee47c688,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+74f982ea,GPT-5.5,positive,positive
+91438acf,Claude Sonnet,mixed,mixed
+337ba332,Claude Sonnet,negative,negative
+d22fcf74,Groq-2 (openai/gpt-oss-20b),negative,negative
+867f5c30,GPT-5.5,negative,negative
+823ffb67,GPT-5.5,negative,negative
+fb99907d,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_047,Groq-2 (openai/gpt-oss-20b),negative,negative
+a11e4f82,GPT-5.5,negative,negative
+self_022,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_005,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_090,Claude Sonnet,positive,positive
+self_117,Claude Sonnet,positive,positive
+b41ac6e8,GPT-5.5,negative,negative
+self_050,Claude Sonnet,negative,negative
+f2b89358,GPT-5.5,positive,positive
+6728b214,GPT-5.5,positive,positive
+f3e1bae7,GPT-5.5,negative,negative
+self_051,Claude Sonnet,positive,positive
+2db3e1fb,Groq-1 (qwen/qwen3.6-27b),negative,negative
+68227bfb,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_094,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+c9495991,Claude Sonnet,neutral,neutral
+self_087,GPT-5.5,positive,positive
+64fe49ed,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_002,Claude Sonnet,negative,negative
+b41ac6e8,Claude Sonnet,negative,negative
+9a4a8453,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+cc6ca074,Claude Sonnet,positive,positive
+787769a2,Claude Sonnet,negative,negative
+d11f8fbc,Groq-2 (openai/gpt-oss-20b),negative,negative
+cb690e8d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_079,GPT-5.5,negative,negative
+4b55893b,Groq-2 (openai/gpt-oss-20b),negative,negative
+74f982ea,Claude Sonnet,positive,positive
+a808f728,GPT-5.5,negative,negative
+self_003,Claude Sonnet,negative,negative
+self_070,GPT-5.5,negative,negative
+2a9f640f,GPT-5.5,negative,negative
+13419ac9,GPT-5.5,positive,positive
+self_108,Groq-2 (openai/gpt-oss-20b),negative,negative
+6e74c802,Claude Sonnet,negative,negative
+67fc1984,GPT-5.5,negative,negative
+3048c104,Claude Sonnet,negative,negative
+self_041,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_082,GPT-5.5,mixed,mixed
+self_014,GPT-5.5,positive,positive
+self_109,Groq-2 (openai/gpt-oss-20b),positive,positive
+ac2f9a2d,Claude Sonnet,negative,negative
+471ed9ae,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a40aa278,GPT-5.5,mixed,mixed
+c09c3e07,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_013,GPT-5.5,negative,negative
+2bb89098,GPT-5.5,negative,negative
+self_034,GPT-5.5,mixed,mixed
+self_016,Claude Sonnet,negative,negative
+fd53b315,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_000,Groq-1 (qwen/qwen3.6-27b),positive,positive
+dcb08696,Claude Sonnet,negative,negative
+4a75b058,Groq-1 (qwen/qwen3.6-27b),negative,negative
+39d57179,GPT-5.5,mixed,mixed
+81c176c4,GPT-5.5,negative,negative
+self_010,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_073,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+87657e78,GPT-5.5,negative,negative
+87f88e6e,Claude Sonnet,positive,positive
+63c54a65,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_063,GPT-5.5,negative,negative
+043d696d,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_108,GPT-5.5,negative,negative
+self_049,Groq-1 (qwen/qwen3.6-27b),negative,negative
+f491ec88,Groq-1 (qwen/qwen3.6-27b),positive,positive
+821ac920,Claude Sonnet,negative,negative
+self_062,Groq-2 (openai/gpt-oss-20b),negative,negative
+92aba6b0,Groq-2 (openai/gpt-oss-20b),positive,positive
+50da5552,Groq-1 (qwen/qwen3.6-27b),negative,negative
+3048c104,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_022,Claude Sonnet,negative,negative
+337ba332,Groq-1 (qwen/qwen3.6-27b),negative,negative
+75c68eee,GPT-5.5,negative,negative
+self_016,GPT-5.5,negative,negative
+b41ac6e8,Groq-1 (qwen/qwen3.6-27b),negative,negative
+0fdae536,Groq-2 (openai/gpt-oss-20b),negative,negative
+9953df42,Groq-1 (qwen/qwen3.6-27b),negative,negative
+d27b5699,GPT-5.5,negative,negative
+74fc7335,Groq-2 (openai/gpt-oss-20b),negative,negative
+05b4f75b,Claude Sonnet,positive,positive
+81cb4820,Groq-1 (qwen/qwen3.6-27b),positive,positive
+91813fea,Claude Sonnet,positive,positive
+63c54a65,GPT-5.5,mixed,mixed
+dc44f136,Groq-2 (openai/gpt-oss-20b),negative,negative
+74fc7335,GPT-5.5,negative,negative
+81c176c4,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_069,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_072,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_065,GPT-5.5,positive,positive
+self_105,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_114,Groq-1 (qwen/qwen3.6-27b),positive,positive
+a808f728,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_070,Groq-2 (openai/gpt-oss-20b),negative,negative
+7eb480f8,Groq-2 (openai/gpt-oss-20b),negative,negative
+5e54658e,Claude Sonnet,negative,negative
+dabcbadb,Claude Sonnet,negative,negative
+758b2fd1,Groq-1 (qwen/qwen3.6-27b),negative,negative
+13419ac9,Groq-2 (openai/gpt-oss-20b),positive,positive
+5704871c,Groq-1 (qwen/qwen3.6-27b),positive,positive
+758b2fd1,Groq-2 (openai/gpt-oss-20b),negative,negative
+f247d804,Groq-1 (qwen/qwen3.6-27b),negative,negative
+41299b0b,Groq-2 (openai/gpt-oss-20b),negative,negative
+7a081fb8,GPT-5.5,negative,negative
+self_106,Claude Sonnet,negative,negative
+self_000,Groq-2 (openai/gpt-oss-20b),positive,positive
+ac18aa51,Groq-2 (openai/gpt-oss-20b),negative,negative
+50bdae04,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_017,GPT-5.5,positive,positive
+fd53b315,Groq-2 (openai/gpt-oss-20b),positive,positive
+1cab96a3,Groq-1 (qwen/qwen3.6-27b),negative,negative
+ec92939f,GPT-5.5,positive,positive
+self_031,GPT-5.5,positive,positive
+c09c3e07,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a9ed0aa2,Groq-2 (openai/gpt-oss-20b),positive,positive
+6bd2fbb5,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_076,Groq-2 (openai/gpt-oss-20b),positive,positive
+be8af2af,Groq-1 (qwen/qwen3.6-27b),positive,positive
+a808f728,Groq-1 (qwen/qwen3.6-27b),negative,negative
+8c74c249,GPT-5.5,negative,negative
+self_075,GPT-5.5,neutral,neutral
+74fc7335,Claude Sonnet,negative,negative
+9d52e5b2,Claude Sonnet,negative,negative
+c65d836e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a25d8456,Groq-2 (openai/gpt-oss-20b),negative,negative
+9503a560,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+53dba760,Groq-2 (openai/gpt-oss-20b),negative,negative
+5bbd49da,Groq-1 (qwen/qwen3.6-27b),negative,negative
+58803b86,Groq-2 (openai/gpt-oss-20b),negative,negative
+1d348a58,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_039,Groq-2 (openai/gpt-oss-20b),negative,negative
+def41499,Claude Sonnet,negative,negative
+self_036,GPT-5.5,negative,negative
+4b55893b,GPT-5.5,negative,negative
+6628b157,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_083,Groq-2 (openai/gpt-oss-20b),negative,negative
+dd659a35,Groq-2 (openai/gpt-oss-20b),negative,negative
+75c68eee,Claude Sonnet,negative,negative
+4b55893b,Claude Sonnet,negative,negative
+self_037,GPT-5.5,negative,negative
+self_032,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_016,Groq-1 (qwen/qwen3.6-27b),negative,negative
+bb803bc9,GPT-5.5,negative,negative
+0fdae536,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_034,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_056,GPT-5.5,positive,positive
+58803b86,Groq-1 (qwen/qwen3.6-27b),negative,negative
+821ac920,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_057,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_036,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a7854a05,Claude Sonnet,negative,negative
+d27b5699,Groq-1 (qwen/qwen3.6-27b),negative,negative
+ac18aa51,Claude Sonnet,negative,negative
+2db3e1fb,GPT-5.5,negative,negative
+self_052,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_044,GPT-5.5,negative,negative
+self_036,Claude Sonnet,negative,negative
+self_117,GPT-5.5,positive,positive
+af1b20f5,Groq-2 (openai/gpt-oss-20b),positive,positive
+0e8ed23e,GPT-5.5,mixed,mixed
+d379bd3b,GPT-5.5,negative,negative
+92aba6b0,Groq-1 (qwen/qwen3.6-27b),positive,positive
+61473d9f,Groq-1 (qwen/qwen3.6-27b),negative,negative
+91813fea,GPT-5.5,positive,positive
+2db3e1fb,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_042,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2405262e,GPT-5.5,negative,negative
+0e8ed23e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+8dee0501,Groq-2 (openai/gpt-oss-20b),negative,negative
+9d52e5b2,Groq-2 (openai/gpt-oss-20b),negative,negative
+b61e559a,GPT-5.5,negative,negative
+dc44f136,Claude Sonnet,negative,negative
+self_095,Groq-1 (qwen/qwen3.6-27b),negative,negative
+6000a331,Claude Sonnet,negative,negative
+1af6a8e2,GPT-5.5,negative,negative
+self_067,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_086,GPT-5.5,mixed,mixed
+self_018,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+4c016fd0,GPT-5.5,negative,negative
+self_011,GPT-5.5,positive,positive
+self_004,Claude Sonnet,positive,positive
+self_028,GPT-5.5,mixed,mixed
+39d57179,Claude Sonnet,mixed,mixed
+196cbd4d,Claude Sonnet,mixed,mixed
+self_045,Claude Sonnet,neutral,neutral
+043d696d,GPT-5.5,negative,negative
+b5b4c999,Claude Sonnet,positive,positive
+d22fcf74,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_056,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_115,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_015,Groq-2 (openai/gpt-oss-20b),negative,negative
+7fa5a522,Groq-1 (qwen/qwen3.6-27b),negative,negative
+b0b78093,Groq-1 (qwen/qwen3.6-27b),positive,positive
+823ffb67,Claude Sonnet,negative,negative
+79aa3862,Groq-2 (openai/gpt-oss-20b),negative,negative
+92aba6b0,GPT-5.5,positive,positive
+self_110,GPT-5.5,negative,negative
+6628b157,GPT-5.5,negative,negative
+self_101,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+2a9f640f,Groq-2 (openai/gpt-oss-20b),negative,negative
+21dd3549,GPT-5.5,negative,negative
+self_058,Groq-2 (openai/gpt-oss-20b),negative,negative
+283219d4,Claude Sonnet,negative,negative
+self_103,Claude Sonnet,negative,negative
+d7b9b3de,Claude Sonnet,negative,negative
+3b02e26a,GPT-5.5,negative,negative
+self_046,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+self_106,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_090,GPT-5.5,positive,positive
+a5c0e6c7,Claude Sonnet,negative,negative
+self_062,GPT-5.5,negative,negative
+9fd0355f,Claude Sonnet,positive,positive
+8dee0501,Claude Sonnet,negative,negative
+87f88e6e,GPT-5.5,positive,positive
+self_021,GPT-5.5,positive,positive
+self_113,Groq-2 (openai/gpt-oss-20b),negative,negative
+015a65cd,GPT-5.5,mixed,mixed
+self_042,Claude Sonnet,negative,negative
+ef967936,Groq-1 (qwen/qwen3.6-27b),negative,negative
+53dba760,GPT-5.5,negative,negative
+f3e1bae7,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_059,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+0e51c622,GPT-5.5,neutral,neutral
+0e8ed23e,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+03904dd8,GPT-5.5,negative,negative
+2d0b8fd5,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2eca9095,Groq-1 (qwen/qwen3.6-27b),negative,negative
+7fa5a522,GPT-5.5,negative,negative
+2b787198,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+cc6ca074,Groq-2 (openai/gpt-oss-20b),positive,positive
+b14ffb79,Groq-1 (qwen/qwen3.6-27b),positive,positive
+9fd0355f,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_057,Claude Sonnet,negative,negative
+self_002,GPT-5.5,negative,negative
+bb803bc9,Claude Sonnet,negative,negative
+82a22fb1,Claude Sonnet,negative,negative
+self_088,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_019,GPT-5.5,negative,negative
+163cda9a,Claude Sonnet,negative,negative
+6f199a93,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_032,Claude Sonnet,negative,negative
+self_036,Groq-2 (openai/gpt-oss-20b),negative,negative
+c2145ec4,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_114,GPT-5.5,positive,positive
+882d4036,GPT-5.5,negative,negative
+self_003,GPT-5.5,negative,negative
+9503a560,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_007,Claude Sonnet,neutral,neutral
+e2fc9302,Groq-2 (openai/gpt-oss-20b),negative,negative
+c09c3e07,Claude Sonnet,negative,negative
+d379bd3b,Claude Sonnet,negative,negative
+e2fc9302,GPT-5.5,negative,negative
+467b229b,Claude Sonnet,negative,negative
+self_065,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_068,GPT-5.5,negative,negative
+self_029,GPT-5.5,negative,negative
+123d7847,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_101,GPT-5.5,mixed,mixed
+a7854a05,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_045,GPT-5.5,negative,negative
+0e8ed23e,Claude Sonnet,negative,negative
+b7682251,Groq-2 (openai/gpt-oss-20b),negative,negative
+c9495991,GPT-5.5,neutral,neutral
+c5990fde,GPT-5.5,negative,negative
+self_096,Claude Sonnet,negative,negative
+self_047,Claude Sonnet,negative,negative
+74f982ea,Groq-1 (qwen/qwen3.6-27b),positive,positive
+5704871c,Claude Sonnet,positive,positive
+0e40a483,Claude Sonnet,negative,negative
+27179227,Groq-2 (openai/gpt-oss-20b),positive,positive
+af1b20f5,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_085,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+0d8fe691,GPT-5.5,negative,negative
+bf5a9045,GPT-5.5,negative,negative
+a25d8456,GPT-5.5,negative,negative
+d27b5699,Groq-2 (openai/gpt-oss-20b),negative,negative
+823ffb67,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_042,Groq-2 (openai/gpt-oss-20b),negative,negative
+b5ffb98d,Claude Sonnet,negative,negative
+self_023,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_034,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_041,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+0cea96f0,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_098,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_048,GPT-5.5,positive,positive
+be8af2af,Groq-2 (openai/gpt-oss-20b),positive,positive
+f273c9b7,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_119,GPT-5.5,mixed,mixed
+4efe618a,Groq-1 (qwen/qwen3.6-27b),positive,positive
+758b2fd1,GPT-5.5,negative,negative
+self_051,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_004,Groq-1 (qwen/qwen3.6-27b),positive,positive
+2405262e,Groq-2 (openai/gpt-oss-20b),negative,negative
+dc20bb4a,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_119,Claude Sonnet,negative,negative
+self_078,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_071,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_015,Claude Sonnet,negative,negative
+self_120,Groq-1 (qwen/qwen3.6-27b),positive,positive
+9953df42,Claude Sonnet,negative,negative
+79aa3862,Claude Sonnet,negative,negative
+ca2f9771,Groq-2 (openai/gpt-oss-20b),positive,positive
+0e40a483,Groq-1 (qwen/qwen3.6-27b),negative,negative
+311dacc5,Groq-2 (openai/gpt-oss-20b),negative,negative
+4c9f516e,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_093,Claude Sonnet,positive,positive
+56b694d1,GPT-5.5,negative,negative
+af4ca369,Claude Sonnet,positive,positive
+242de514,GPT-5.5,mixed,mixed
+71bcfe94,Groq-2 (openai/gpt-oss-20b),negative,negative
+052f2a38,Claude Sonnet,negative,negative
+d22fcf74,GPT-5.5,negative,negative
+self_066,GPT-5.5,positive,positive
+self_006,Claude Sonnet,neutral,neutral
+self_058,Groq-1 (qwen/qwen3.6-27b),negative,negative
+b5b4c999,GPT-5.5,positive,positive
+self_043,Claude Sonnet,positive,positive
+2b4699af,Claude Sonnet,positive,positive
+self_111,Groq-2 (openai/gpt-oss-20b),positive,positive
+97c1326d,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_096,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_097,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+0cea96f0,Groq-2 (openai/gpt-oss-20b),negative,negative
+dcb08696,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_081,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+2405262e,Claude Sonnet,negative,negative
+91813fea,Groq-1 (qwen/qwen3.6-27b),positive,positive
+dcb08696,GPT-5.5,negative,negative
+87657e78,Claude Sonnet,negative,negative
+self_066,Groq-2 (openai/gpt-oss-20b),positive,positive
+03904dd8,Claude Sonnet,negative,negative
+self_043,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_079,Groq-2 (openai/gpt-oss-20b),negative,negative
+1e5e5c9b,Claude Sonnet,negative,negative
+self_080,GPT-5.5,negative,negative
+self_065,Claude Sonnet,positive,positive
+self_024,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_025,GPT-5.5,mixed,mixed
+58803b86,GPT-5.5,negative,negative
+5e54658e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+283219d4,GPT-5.5,negative,negative
+467b229b,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_116,Claude Sonnet,neutral,neutral
+a11e4f82,Groq-2 (openai/gpt-oss-20b),negative,negative
+4e3ce4c4,GPT-5.5,negative,negative
+self_079,Groq-1 (qwen/qwen3.6-27b),negative,negative
+c2145ec4,Groq-1 (qwen/qwen3.6-27b),negative,negative
+900dab3c,Groq-2 (openai/gpt-oss-20b),positive,positive
+86f2809d,GPT-5.5,negative,negative
+self_084,GPT-5.5,positive,positive
+f00ce22d,Claude Sonnet,mixed,mixed
+80648800,Claude Sonnet,neutral,neutral
+self_046,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+b61e559a,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_107,Groq-2 (openai/gpt-oss-20b),positive,positive
+6728b214,Claude Sonnet,positive,positive
+ab839b24,GPT-5.5,negative,negative
+4efe618a,Claude Sonnet,positive,positive
+47a0bbe9,Groq-1 (qwen/qwen3.6-27b),negative,negative
+8c689050,GPT-5.5,negative,negative
+075f38bb,Claude Sonnet,negative,negative
+c26163f5,Claude Sonnet,negative,negative
+b173a597,GPT-5.5,negative,negative
+f3e1bae7,Claude Sonnet,negative,negative
+self_084,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_001,Claude Sonnet,negative,negative
+self_104,Groq-1 (qwen/qwen3.6-27b),negative,negative
+c26163f5,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+self_018,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_110,Claude Sonnet,negative,negative
+self_004,GPT-5.5,positive,positive
+def41499,GPT-5.5,negative,negative
+052f2a38,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_025,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+22a83408,Claude Sonnet,positive,positive
+self_087,Groq-1 (qwen/qwen3.6-27b),positive,positive
+50da5552,GPT-5.5,negative,negative
+1015166e,GPT-5.5,positive,positive
+27179227,GPT-5.5,positive,positive
+self_009,Claude Sonnet,mixed,mixed
+f1fe68dc,Claude Sonnet,negative,negative
+self_020,Claude Sonnet,positive,positive
+self_063,Claude Sonnet,negative,negative
+0d8fe691,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_051,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_013,Claude Sonnet,negative,negative
+self_054,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_075,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+self_073,Claude Sonnet,positive,positive
+self_088,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_092,GPT-5.5,negative,negative
+47a0bbe9,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_019,Claude Sonnet,negative,negative
+4a75b058,Groq-2 (openai/gpt-oss-20b),negative,negative
+f60e51a1,Groq-1 (qwen/qwen3.6-27b),positive,positive
+56b694d1,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_076,Claude Sonnet,positive,positive
+self_021,Groq-2 (openai/gpt-oss-20b),positive,positive
+6000a331,GPT-5.5,negative,negative
+cb96b117,GPT-5.5,negative,negative
+self_042,GPT-5.5,negative,negative
+6b902b43,GPT-5.5,negative,negative
+b5161571,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+f79bfff3,Claude Sonnet,negative,negative
+cdf2e588,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_082,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+self_016,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_022,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_055,Groq-2 (openai/gpt-oss-20b),negative,negative
+2bbd52fc,GPT-5.5,positive,positive
+self_110,Groq-1 (qwen/qwen3.6-27b),negative,negative
+c5990fde,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_011,Groq-2 (openai/gpt-oss-20b),positive,positive
+3a6b7d97,GPT-5.5,negative,negative
+b173a597,Groq-1 (qwen/qwen3.6-27b),negative,negative
+d27b5699,Claude Sonnet,negative,negative
+82a22fb1,GPT-5.5,negative,negative
+123d7847,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_067,GPT-5.5,mixed,mixed
+self_053,Groq-1 (qwen/qwen3.6-27b),negative,negative
+ee47c688,GPT-5.5,mixed,mixed
+b5b4c999,Groq-2 (openai/gpt-oss-20b),positive,positive
+9c779b18,Claude Sonnet,positive,positive
+015a65cd,Claude Sonnet,positive,positive
+self_038,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_012,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_108,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_017,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_047,GPT-5.5,negative,negative
+86b4e680,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+47cce6db,Claude Sonnet,negative,negative
+6e74c802,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_097,Claude Sonnet,positive,positive
+3a6b7d97,Groq-1 (qwen/qwen3.6-27b),negative,negative
+86b4e680,Claude Sonnet,mixed,mixed
+4efe618a,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_024,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_014,Groq-1 (qwen/qwen3.6-27b),positive,positive
+9d52e5b2,Groq-1 (qwen/qwen3.6-27b),negative,negative
+3e6b274d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_091,Groq-1 (qwen/qwen3.6-27b),negative,negative
+0cea96f0,Claude Sonnet,negative,negative
+9c779b18,Groq-1 (qwen/qwen3.6-27b),positive,positive
+1d09018e,Groq-1 (qwen/qwen3.6-27b),positive,positive
+75c68eee,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_109,Groq-1 (qwen/qwen3.6-27b),positive,positive
+ca2f9771,Groq-1 (qwen/qwen3.6-27b),positive,positive
+6db4635d,Claude Sonnet,negative,negative
+71bcfe94,Groq-1 (qwen/qwen3.6-27b),negative,negative
+015a65cd,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_108,Claude Sonnet,negative,negative
+f1b95b5c,Claude Sonnet,mixed,mixed
+self_026,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_025,Claude Sonnet,neutral,neutral
+self_030,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_090,Groq-2 (openai/gpt-oss-20b),positive,positive
+b7682251,Claude Sonnet,negative,negative
+909d0c60,GPT-5.5,positive,positive
+ac18aa51,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_033,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_084,Claude Sonnet,positive,positive
+473b5634,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_105,GPT-5.5,positive,positive
+5ceb3ab0,Groq-2 (openai/gpt-oss-20b),negative,negative
+abcbcac2,Groq-1 (qwen/qwen3.6-27b),negative,negative
+74f982ea,Groq-2 (openai/gpt-oss-20b),positive,positive
+91813fea,Groq-2 (openai/gpt-oss-20b),positive,positive
+a5c0e6c7,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_052,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_045,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_081,Claude Sonnet,negative,negative
+e2fc9302,Claude Sonnet,negative,negative
+603ebcfe,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_071,Claude Sonnet,positive,positive
+0e51c622,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+self_100,Claude Sonnet,negative,negative
+1d09018e,GPT-5.5,positive,positive
+61473d9f,GPT-5.5,negative,negative
+dc20bb4a,GPT-5.5,negative,negative
+self_015,GPT-5.5,negative,negative
+24f3a110,GPT-5.5,mixed,mixed
+1af6a8e2,Claude Sonnet,negative,negative
+self_117,Groq-2 (openai/gpt-oss-20b),positive,positive
+e0697ddb,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_045,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_020,GPT-5.5,positive,positive
+ac2f9a2d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_097,Groq-2 (openai/gpt-oss-20b),positive,positive
+47a0bbe9,GPT-5.5,negative,negative
+self_083,Claude Sonnet,negative,negative
+self_089,Groq-1 (qwen/qwen3.6-27b),negative,negative
+dc44f136,GPT-5.5,negative,negative
+self_102,GPT-5.5,positive,positive
+b0b78093,Claude Sonnet,positive,positive
+self_028,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+311dacc5,GPT-5.5,negative,negative
+f1b95b5c,Groq-1 (qwen/qwen3.6-27b),negative,negative
+39d57179,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+5bbd49da,Groq-2 (openai/gpt-oss-20b),negative,negative
+d7b9b3de,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_119,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+471ed9ae,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_109,Claude Sonnet,positive,positive
+042536d9,Groq-2 (openai/gpt-oss-20b),negative,negative
+ec92939f,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_113,Claude Sonnet,negative,negative
+042536d9,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+7a081fb8,Groq-2 (openai/gpt-oss-20b),negative,negative
+f92b9824,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_040,Groq-2 (openai/gpt-oss-20b),negative,negative
+948a628e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+82a22fb1,Groq-2 (openai/gpt-oss-20b),negative,negative
+909d0c60,Claude Sonnet,positive,positive
+05b4f75b,Groq-2 (openai/gpt-oss-20b),positive,positive
+63c54a65,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+795816fa,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1e5e5c9b,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_054,GPT-5.5,negative,negative
+a9ed0aa2,Claude Sonnet,positive,positive
+ac2f9a2d,GPT-5.5,negative,negative
+f92b9824,Claude Sonnet,positive,positive
+e2fc9302,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_091,GPT-5.5,mixed,mixed
+1709a415,Claude Sonnet,negative,negative
+4b55893b,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_057,Groq-2 (openai/gpt-oss-20b),negative,negative
+5704871c,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_091,Claude Sonnet,negative,negative
+self_005,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_011,Groq-1 (qwen/qwen3.6-27b),positive,positive
+9a4a8453,GPT-5.5,mixed,mixed
+56b694d1,Groq-1 (qwen/qwen3.6-27b),negative,negative
+758b2fd1,Claude Sonnet,negative,negative
+1d348a58,Claude Sonnet,negative,negative
+self_093,Groq-1 (qwen/qwen3.6-27b),positive,positive
+af4ca369,Groq-2 (openai/gpt-oss-20b),positive,positive
+d7b9b3de,GPT-5.5,negative,negative
+self_050,Groq-2 (openai/gpt-oss-20b),negative,negative
+042536d9,Claude Sonnet,negative,negative
+042536d9,GPT-5.5,mixed,mixed
+self_000,GPT-5.5,positive,positive
+24f3a110,Groq-2 (openai/gpt-oss-20b),positive,positive
+b5161571,Claude Sonnet,neutral,neutral
+ef967936,Claude Sonnet,negative,negative
+052f2a38,Groq-2 (openai/gpt-oss-20b),negative,negative
+7eb480f8,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2bb89098,Claude Sonnet,negative,negative
+self_001,GPT-5.5,negative,negative
+self_072,Claude Sonnet,negative,negative
+cd406b3b,Claude Sonnet,negative,negative
+22a83408,GPT-5.5,positive,positive
+47a0bbe9,Claude Sonnet,negative,negative
+f247d804,Claude Sonnet,negative,negative
+56b694d1,Claude Sonnet,negative,negative
+64fe49ed,Groq-2 (openai/gpt-oss-20b),negative,negative
+168a2e00,Groq-1 (qwen/qwen3.6-27b),negative,negative
+603ebcfe,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+fcc1e34e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+06fed2b1,Claude Sonnet,negative,negative
+4c016fd0,Groq-1 (qwen/qwen3.6-27b),negative,negative
+e1eb49e7,Groq-1 (qwen/qwen3.6-27b),negative,negative
+c26163f5,Groq-1 (qwen/qwen3.6-27b),negative,negative
+4e3ce4c4,Claude Sonnet,negative,negative
+self_004,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_009,GPT-5.5,mixed,mixed
+ac2f9a2d,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_023,GPT-5.5,positive,positive
+self_029,Groq-1 (qwen/qwen3.6-27b),negative,negative
+909d0c60,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_035,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+e1eb49e7,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_092,Claude Sonnet,negative,negative
+03904dd8,Groq-2 (openai/gpt-oss-20b),negative,negative
+0d8fe691,Groq-1 (qwen/qwen3.6-27b),negative,negative
+a9ed0aa2,GPT-5.5,positive,positive
+self_061,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_119,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+53dba760,Claude Sonnet,negative,negative
+c5990fde,Claude Sonnet,negative,negative
+self_088,Claude Sonnet,mixed,Mixed
+self_046,Claude Sonnet,mixed,mixed
+dc20bb4a,Claude Sonnet,negative,negative
+self_048,Groq-2 (openai/gpt-oss-20b),positive,positive
+1e5e5c9b,Groq-2 (openai/gpt-oss-20b),negative,negative
+0cea96f0,GPT-5.5,negative,negative
+64fe49ed,Claude Sonnet,negative,negative
+self_110,Groq-2 (openai/gpt-oss-20b),negative,negative
+7a081fb8,Groq-1 (qwen/qwen3.6-27b),negative,negative
+cb690e8d,Claude Sonnet,negative,negative
+6f199a93,GPT-5.5,positive,positive
+075f38bb,GPT-5.5,negative,negative
+2b4699af,GPT-5.5,positive,positive
+ca2f9771,Claude Sonnet,positive,positive
+1709a415,GPT-5.5,negative,negative
+self_030,GPT-5.5,negative,negative
+self_035,Claude Sonnet,neutral,neutral
+71bcfe94,Claude Sonnet,negative,negative
+ee47c688,Claude Sonnet,positive,positive
+d6e7e2b6,Claude Sonnet,positive,positive
+cb8dd9da,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2eca9095,Claude Sonnet,negative,negative
+self_116,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_094,Claude Sonnet,negative,negative
+795816fa,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_094,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+abcbcac2,GPT-5.5,negative,negative
+self_099,GPT-5.5,positive,positive
+e1eb49e7,Claude Sonnet,negative,negative
+self_043,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_013,Groq-1 (qwen/qwen3.6-27b),negative,negative
+ab839b24,Groq-1 (qwen/qwen3.6-27b),negative,negative
+6628b157,Claude Sonnet,negative,negative
+self_111,GPT-5.5,positive,positive
+self_092,Groq-2 (openai/gpt-oss-20b),negative,negative
+a7854a05,Groq-2 (openai/gpt-oss-20b),negative,negative
+f1fe68dc,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_115,GPT-5.5,negative,negative
+27179227,Claude Sonnet,positive,positive
+self_083,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_050,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_118,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_066,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_082,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+cb690e8d,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_040,GPT-5.5,mixed,mixed
+cb8dd9da,Claude Sonnet,negative,negative
+self_112,Claude Sonnet,positive,positive
+4672ad0f,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_012,Claude Sonnet,positive,positive
+self_052,Claude Sonnet,negative,negative
+9e0ca5c6,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+821ac920,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_106,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_028,Claude Sonnet,neutral,neutral
+self_031,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_086,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+d11f8fbc,GPT-5.5,negative,negative
+c65d836e,Groq-2 (openai/gpt-oss-20b),positive,positive
+04d2196e,Groq-2 (openai/gpt-oss-20b),positive,positive
+f60e51a1,Claude Sonnet,positive,positive
+6bd2fbb5,Claude Sonnet,positive,positive
+6628b157,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_107,GPT-5.5,positive,positive
+self_006,GPT-5.5,neutral,neutral
+7985ec2e,GPT-5.5,negative,negative
+b5161571,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+4c9f516e,Groq-1 (qwen/qwen3.6-27b),negative,negative
+f60e51a1,Groq-2 (openai/gpt-oss-20b),positive,positive
+fb99907d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_078,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+f491ec88,Claude Sonnet,positive,positive
+self_033,GPT-5.5,negative,negative
+self_027,Groq-2 (openai/gpt-oss-20b),negative,negative
+6994ad64,Groq-2 (openai/gpt-oss-20b),negative,negative
+7a081fb8,Claude Sonnet,negative,negative
+052f2a38,GPT-5.5,negative,negative
+075f38bb,Groq-1 (qwen/qwen3.6-27b),negative,negative
+2b4699af,Groq-1 (qwen/qwen3.6-27b),positive,positive
+86f2809d,Claude Sonnet,negative,negative
+cc6ca074,GPT-5.5,positive,positive
+self_076,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_001,Groq-1 (qwen/qwen3.6-27b),negative,negative
+f79bfff3,Groq-2 (openai/gpt-oss-20b),negative,negative
+f1b95b5c,GPT-5.5,negative,negative
+self_096,GPT-5.5,negative,negative
+self_102,Claude Sonnet,positive,positive
+0e51c622,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+self_014,Groq-2 (openai/gpt-oss-20b),positive,positive
+0e40a483,GPT-5.5,negative,negative
+self_039,Claude Sonnet,negative,negative
+self_111,Claude Sonnet,neutral,neutral
+b5ffb98d,Groq-2 (openai/gpt-oss-20b),negative,negative
+043d696d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+e0697ddb,Claude Sonnet,negative,negative
+self_007,GPT-5.5,mixed,mixed
+self_093,GPT-5.5,positive,positive
+6b902b43,Groq-2 (openai/gpt-oss-20b),negative,negative
+50da5552,Claude Sonnet,negative,negative
+39d57179,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+self_114,Claude Sonnet,positive,positive
+self_018,GPT-5.5,mixed,mixed
+self_024,GPT-5.5,negative,negative
+self_114,Groq-2 (openai/gpt-oss-20b),positive,positive
+b5b4c999,Groq-1 (qwen/qwen3.6-27b),positive,positive
+cdfb60c1,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_007,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_026,GPT-5.5,positive,positive
+882d4036,Claude Sonnet,negative,negative
+3e6b274d,GPT-5.5,negative,negative
+4c9f516e,GPT-5.5,negative,negative
+self_070,Claude Sonnet,negative,negative
+6e74c802,GPT-5.5,negative,negative
+cd406b3b,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_061,Groq-1 (qwen/qwen3.6-27b),negative,negative
+196cbd4d,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+bf5a9045,Claude Sonnet,negative,negative
+1015166e,Groq-2 (openai/gpt-oss-20b),positive,positive
+b065b82d,Claude Sonnet,negative,negative
+08350da3,Claude Sonnet,negative,negative
+311dacc5,Groq-1 (qwen/qwen3.6-27b),negative,negative
+9953df42,GPT-5.5,negative,negative
+self_061,Claude Sonnet,negative,negative
+948a628e,Claude Sonnet,negative,negative
+2d0b8fd5,GPT-5.5,negative,negative
+123d7847,Claude Sonnet,negative,negative
+92aba6b0,Claude Sonnet,positive,positive
+2b4699af,Groq-2 (openai/gpt-oss-20b),positive,positive
+a7854a05,GPT-5.5,negative,negative
+cb690e8d,GPT-5.5,negative,negative
+bb803bc9,Groq-1 (qwen/qwen3.6-27b),negative,negative
+948a628e,Groq-2 (openai/gpt-oss-20b),negative,negative
+81cb4820,Claude Sonnet,positive,positive
+self_074,Claude Sonnet,positive,positive
+0e51c622,Claude Sonnet,neutral,neutral
+self_007,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+fb99907d,Claude Sonnet,negative,negative
+67fc1984,Groq-2 (openai/gpt-oss-20b),negative,negative
+3e6b274d,Groq-2 (openai/gpt-oss-20b),negative,negative
+900dab3c,GPT-5.5,positive,positive
+self_077,Claude Sonnet,positive,positive
+self_063,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1015166e,Groq-1 (qwen/qwen3.6-27b),positive,positive
+cdf2e588,GPT-5.5,negative,negative
+123d7847,GPT-5.5,negative,negative
+fcc1e34e,GPT-5.5,negative,negative
+self_105,Claude Sonnet,positive,positive
+self_058,Claude Sonnet,negative,negative
+53dba760,Groq-1 (qwen/qwen3.6-27b),negative,negative
+9953df42,Groq-2 (openai/gpt-oss-20b),negative,negative
+2bbd52fc,Claude Sonnet,positive,positive
+2bb89098,Groq-2 (openai/gpt-oss-20b),negative,negative
+283219d4,Groq-2 (openai/gpt-oss-20b),negative,negative
+35053c9a,Groq-2 (openai/gpt-oss-20b),positive,positive
+2f7ce106,Claude Sonnet,negative,negative
+7eb480f8,GPT-5.5,negative,negative
+b173a597,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_012,GPT-5.5,positive,positive
+self_037,Claude Sonnet,negative,negative
+08350da3,GPT-5.5,negative,negative
+self_055,GPT-5.5,negative,negative
+2f7ce106,Groq-2 (openai/gpt-oss-20b),negative,negative
+8c689050,Groq-1 (qwen/qwen3.6-27b),negative,negative
+7fa5a522,Claude Sonnet,negative,negative
+196cbd4d,GPT-5.5,mixed,mixed
+9d52e5b2,GPT-5.5,negative,negative
+self_032,GPT-5.5,negative,negative
+cdf2e588,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_101,Claude Sonnet,mixed,mixed
+1e5e5c9b,GPT-5.5,negative,negative
+self_006,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+self_010,Claude Sonnet,positive,positive
+cdfb60c1,Groq-2 (openai/gpt-oss-20b),positive,positive
+867f5c30,Groq-1 (qwen/qwen3.6-27b),negative,negative
+24f3a110,Groq-1 (qwen/qwen3.6-27b),mixed,mixed
+self_001,Groq-2 (openai/gpt-oss-20b),negative,negative
+32be53ee,Claude Sonnet,negative,negative
+self_118,GPT-5.5,negative,negative
+self_087,Groq-2 (openai/gpt-oss-20b),positive,positive
+b2f84f02,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_075,Claude Sonnet,neutral,neutral
+86b4e680,GPT-5.5,mixed,mixed
+self_097,GPT-5.5,positive,positive
+163cda9a,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_052,GPT-5.5,negative,negative
+self_063,Groq-2 (openai/gpt-oss-20b),negative,negative
+68227bfb,Claude Sonnet,positive,positive
+self_077,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_053,Claude Sonnet,negative,negative
+f247d804,Groq-2 (openai/gpt-oss-20b),negative,negative
+41299b0b,Groq-1 (qwen/qwen3.6-27b),negative,negative
+b173a597,Claude Sonnet,negative,negative
+13a27ed7,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_084,Groq-1 (qwen/qwen3.6-27b),positive,positive
+a9ed0aa2,Groq-1 (qwen/qwen3.6-27b),positive,positive
+6e4058c4,Groq-1 (qwen/qwen3.6-27b),negative,negative
+6b902b43,Groq-1 (qwen/qwen3.6-27b),negative,negative
+075f38bb,Groq-2 (openai/gpt-oss-20b),negative,negative
+self_041,Claude Sonnet,mixed,mixed
+015a65cd,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+self_109,GPT-5.5,positive,positive
+self_014,Claude Sonnet,positive,positive
+7504bb1d,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+63c54a65,Claude Sonnet,mixed,mixed
+c2145ec4,Claude Sonnet,negative,negative
+c9495991,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+f1fe68dc,GPT-5.5,negative,negative
+ab839b24,Groq-2 (openai/gpt-oss-20b),negative,negative
+be8af2af,GPT-5.5,positive,positive
+32be53ee,GPT-5.5,negative,negative
+self_037,Groq-1 (qwen/qwen3.6-27b),negative,negative
+9503a560,GPT-5.5,mixed,mixed
+b0b78093,Groq-2 (openai/gpt-oss-20b),positive,positive
+b2f84f02,Groq-1 (qwen/qwen3.6-27b),negative,negative
+4a75b058,GPT-5.5,negative,negative
+5e54658e,GPT-5.5,negative,negative
+6994ad64,GPT-5.5,negative,negative
+self_008,GPT-5.5,positive,positive
+473b5634,GPT-5.5,positive,positive
+b065b82d,GPT-5.5,negative,negative
+self_090,Groq-1 (qwen/qwen3.6-27b),positive,positive
+7985ec2e,Claude Sonnet,negative,negative
+97c1326d,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_010,GPT-5.5,positive,positive
+64fe49ed,GPT-5.5,negative,negative
+f468ebda,Groq-1 (qwen/qwen3.6-27b),negative,negative
+03904dd8,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_064,Groq-2 (openai/gpt-oss-20b),neutral,neutral
+9fd0355f,Groq-2 (openai/gpt-oss-20b),mixed,mixed
+cb96b117,Claude Sonnet,negative,negative
+self_078,Claude Sonnet,neutral,neutral
+self_048,Claude Sonnet,positive,positive
+80648800,Groq-2 (openai/gpt-oss-20b),negative,negative
+cdfb60c1,Claude Sonnet,positive,positive
+self_080,Claude Sonnet,negative,negative
+self_028,Groq-1 (qwen/qwen3.6-27b),neutral,neutral
+self_055,Claude Sonnet,negative,negative
+self_015,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_005,Claude Sonnet,negative,negative
+22a83408,Groq-1 (qwen/qwen3.6-27b),positive,positive
+32be53ee,Groq-2 (openai/gpt-oss-20b),negative,negative
+c26163f5,GPT-5.5,negative,negative
+self_055,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1cab96a3,GPT-5.5,negative,negative
+168a2e00,Claude Sonnet,negative,negative
+05b4f75b,Groq-1 (qwen/qwen3.6-27b),positive,positive
+self_049,GPT-5.5,negative,negative
+4a75b058,Claude Sonnet,negative,negative
+4e3ce4c4,Groq-2 (openai/gpt-oss-20b),negative,negative
+8c74c249,Groq-1 (qwen/qwen3.6-27b),negative,negative
+81cb4820,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_089,GPT-5.5,negative,negative
+a25d8456,Groq-1 (qwen/qwen3.6-27b),negative,negative
+ca2f9771,GPT-5.5,positive,positive
+337ba332,GPT-5.5,negative,negative
+74fc7335,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1af6a8e2,Groq-1 (qwen/qwen3.6-27b),negative,negative
+1d09018e,Groq-2 (openai/gpt-oss-20b),positive,positive
+self_072,Groq-1 (qwen/qwen3.6-27b),negative,negative
+self_072,GPT-5.5,negative,negative
+dd659a35,GPT-5.5,negative,negative
+self_044,Claude Sonnet,negative,negative
+7504bb1d,GPT-5.5,neutral,neutral
+97c1326d,Claude Sonnet,negative,negative
+self_116,GPT-5.5,neutral,neutral
+f247d804,Gemini Flash,negative,negative
+e1eb49e7,Gemini Flash,negative,negative
+79aa3862,Gemini Flash,negative,negative
+ec92939f,Gemini Flash,positive,positive
+6f199a93,Gemini Flash,positive,positive
+ca2f9771,Gemini Flash,positive,positive
+87f88e6e,Gemini Flash,positive,positive
+abcbcac2,Gemini Flash,negative,negative
+8c74c249,Gemini Flash,negative,negative
+9c779b18,Gemini Flash,positive,positive
+5e54658e,Gemini Flash,negative,negative
+c2145ec4,Gemini Flash,negative,negative
+27179227,Gemini Flash,positive,positive
+41299b0b,Gemini Flash,negative,negative
+06fed2b1,Gemini Flash,negative,negative
+af1b20f5,Gemini Flash,positive,positive
+f00ce22d,Gemini Flash,positive,positive
+f60e51a1,Gemini Flash,positive,positive
+50da5552,Gemini Flash,negative,negative
+ef967936,Gemini Flash,negative,negative
+196cbd4d,Gemini Flash,mixed,mixed
+3e6b274d,Gemini Flash,negative,negative
+9a4a8453,Gemini Flash,mixed,mixed
+900dab3c,Gemini Flash,positive,positive
+0e8ed23e,Gemini Flash,negative,negative
+9e0ca5c6,Gemini Flash,mixed,mixed
+ee47c688,Gemini Flash,positive,positive
+311dacc5,Gemini Flash,negative,negative
+1e5e5c9b,Gemini Flash,negative,negative
+b0b78093,Gemini Flash,positive,positive
+47a0bbe9,Gemini Flash,negative,negative
+2a9f640f,Gemini Flash,negative,negative
+53dba760,Gemini Flash,negative,negative
+042536d9,Gemini Flash,mixed,mixed
+fcc1e34e,Gemini Flash,negative,negative
+f92b9824,Gemini Flash,mixed,Mixed
+97c1326d,Gemini Flash,negative,negative
+f1b95b5c,Gemini Flash,mixed,mixed
+d379bd3b,Gemini Flash,negative,negative
+13a27ed7,Gemini Flash,positive,positive
+f468ebda,Gemini Flash,negative,negative
+a25d8456,Gemini Flash,negative,negative
+d11f8fbc,Gemini Flash,negative,negative
+a808f728,Gemini Flash,negative,negative
+2f7ce106,Gemini Flash,negative,negative
+2db3e1fb,Gemini Flash,negative,negative
+0e51c622,Gemini Flash,neutral,neutral
+80648800,Gemini Flash,negative,negative
+821ac920,Gemini Flash,negative,negative
+b61e559a,Gemini Flash,negative,negative
+6994ad64,Gemini Flash,negative,negative
+cb8dd9da,Gemini Flash,negative,negative
+163cda9a,Gemini Flash,negative,negative
+4e3ce4c4,Gemini Flash,negative,negative
+d27b5699,Gemini Flash,negative,negative
+f79bfff3,Gemini Flash,negative,negative
+2b4699af,Gemini Flash,positive,positive
+50bdae04,Gemini Flash,negative,negative
+823ffb67,Gemini Flash,mixed,mixed
+758b2fd1,Gemini Flash,negative,negative
+b14ffb79,Gemini Flash,positive,positive
+9953df42,Gemini Flash,negative,negative
+92aba6b0,Gemini Flash,positive,positive
+af4ca369,Gemini Flash,positive,positive
+05b4f75b,Gemini Flash,positive,positive
+6b902b43,Gemini Flash,negative,negative
+81c176c4,Gemini Flash,negative,negative
+82a22fb1,Gemini Flash,negative,negative
+fd53b315,Gemini Flash,positive,positive
+68227bfb,Gemini Flash,positive,positive
+47cce6db,Gemini Flash,negative,negative
+dc20bb4a,Gemini Flash,negative,negative
+ac18aa51,Gemini Flash,negative,negative
+a7854a05,Gemini Flash,negative,negative
+bb803bc9,Gemini Flash,negative,negative
+2b787198,Gemini Flash,neutral,neutral
+4a75b058,Gemini Flash,negative,negative
+5bbd49da,Gemini Flash,negative,negative
+795816fa,Gemini Flash,negative,negative
+2bbd52fc,Gemini Flash,positive,positive
+35053c9a,Gemini Flash,positive,positive
+13419ac9,Gemini Flash,positive,positive
+91813fea,Gemini Flash,positive,positive
+f491ec88,Gemini Flash,positive,positive
+603ebcfe,Gemini Flash,mixed,mixed
+6e4058c4,Gemini Flash,negative,negative
+24f3a110,Gemini Flash,mixed,mixed
+c26163f5,Gemini Flash,negative,negative
+242de514,Gemini Flash,mixed,mixed
+4c9f516e,Gemini Flash,negative,negative
+f1fe68dc,Gemini Flash,negative,negative
+9d52e5b2,Gemini Flash,negative,negative
+75c68eee,Gemini Flash,negative,negative
+03904dd8,Gemini Flash,negative,"negative
+
+3."
+dabcbadb,Gemini Flash,negative,negative
+08350da3,Gemini Flash,negative,negative
+4c016fd0,Gemini Flash,negative,negative
+87657e78,Gemini Flash,negative,negative
+22a83408,Gemini Flash,mixed,mixed
+63c54a65,Gemini Flash,mixed,mixed
+f3e1bae7,Gemini Flash,negative,negative
+a40aa278,Gemini Flash,mixed,mixed
+4b55893b,Gemini Flash,negative,negative
+74f982ea,Gemini Flash,positive,positive
+67fc1984,Gemini Flash,negative,negative
+76a4c99a,Gemini Flash,positive,positive
+86f2809d,Gemini Flash,negative,negative
+4672ad0f,Gemini Flash,positive,positive
+b41ac6e8,Gemini Flash,negative,negative
+d6e7e2b6,Gemini Flash,positive,positive
+c65d836e,Gemini Flash,negative,negative
+dc44f136,Gemini Flash,negative,negative
+471ed9ae,Gemini Flash,negative,negative
+787769a2,Gemini Flash,negative,negative
+64fe49ed,Gemini Flash,negative,negative
+a9ed0aa2,Gemini Flash,positive,positive
+c09c3e07,Gemini Flash,negative,negative
+b065b82d,Gemini Flash,negative,negative
+7a081fb8,Gemini Flash,negative,negative
+7985ec2e,Gemini Flash,negative,negative
+0cea96f0,Gemini Flash,negative,negative
+ab839b24,Gemini Flash,negative,negative
+ac2f9a2d,Gemini Flash,negative,negative
+948a628e,Gemini Flash,negative,negative
+71bcfe94,Gemini Flash,negative,negative
+4efe618a,Gemini Flash,positive,positive
+3b02e26a,Gemini Flash,negative,negative
+1015166e,Gemini Flash,positive,positive
+123d7847,Gemini Flash,negative,negative
+1cab96a3,Gemini Flash,negative,negative
+473b5634,Gemini Flash,positive,positive
+91438acf,Gemini Flash,mixed,mixed
+7504bb1d,Gemini Flash,neutral,neutral
+c9495991,Gemini Flash,neutral,neutral
+f2b89358,Gemini Flash,positive,positive
+6bd2fbb5,Gemini Flash,positive,positive
+6628b157,Gemini Flash,negative,negative
+dd659a35,Gemini Flash,negative,negative
+043d696d,Gemini Flash,negative,negative
+b5ffb98d,Gemini Flash,negative,negative
+56b694d1,Gemini Flash,negative,negative
+8c689050,Gemini Flash,negative,negative
+7fa5a522,Gemini Flash,negative,negative
+9503a560,Gemini Flash,mixed,mixed
+8dee0501,Gemini Flash,negative,negative
+b7682251,Gemini Flash,negative,negative
+1d348a58,Gemini Flash,negative,negative
+a5c0e6c7,Gemini Flash,negative,negative
+015a65cd,Gemini Flash,mixed,mixed
+168a2e00,Gemini Flash,negative,negative
+909d0c60,Gemini Flash,positive,positive
+052f2a38,Gemini Flash,negative,negative
+b173a597,Gemini Flash,negative,negative
+d7b9b3de,Gemini Flash,negative,negative
+86b4e680,Gemini Flash,mixed,mixed
+0779d752,Gemini Flash,mixed,mixed
+be8af2af,Gemini Flash,positive,positive
+0d8fe691,Gemini Flash,negative,negative
+e0697ddb,Gemini Flash,negative,negative
+6728b214,Gemini Flash,positive,positive
+dcb08696,Gemini Flash,negative,negative
+a11e4f82,Gemini Flash,negative,negative
+283219d4,Gemini Flash,negative,negative
+2bb89098,Gemini Flash,negative,negative
+337ba332,Gemini Flash,negative,negative
+467b229b,Gemini Flash,negative,negative
+3a6b7d97,Gemini Flash,negative,Sentiment: Extremely negative (
+2405262e,Gemini Flash,negative,negative
+81cb4820,Gemini Flash,positive,positive
+0e40a483,Gemini Flash,negative,negative
+61473d9f,Gemini Flash,negative,negative
+cb690e8d,Gemini Flash,negative,negative
+cb96b117,Gemini Flash,negative,negative
+cc6ca074,Gemini Flash,positive,positive
+882d4036,Gemini Flash,negative,negative
+bf5a9045,Gemini Flash,negative,negative
+3048c104,Gemini Flash,negative,negative
+f273c9b7,Gemini Flash,negative,negative
+1709a415,Gemini Flash,negative,negative
+e2fc9302,Gemini Flash,negative,negative
+075f38bb,Gemini Flash,neutral,neutral
+6d0050a4,Gemini Flash,negative,negative
+fb99907d,Gemini Flash,negative,negative
+def41499,Gemini Flash,negative,negative
+7eb480f8,Gemini Flash,negative,negative
+cd406b3b,Gemini Flash,negative,negative
+39d57179,Gemini Flash,mixed,mixed
+867f5c30,Gemini Flash,negative,negative
+6e74c802,Gemini Flash,negative,negative
+cdfb60c1,Gemini Flash,positive,positive
+cdf2e588,Gemini Flash,negative,negative
+04d2196e,Gemini Flash,positive,positive
+2eca9095,Gemini Flash,negative,negative
+5704871c,Gemini Flash,positive,positive
+2d0b8fd5,Gemini Flash,negative,negative
+1d09018e,Gemini Flash,positive,positive
+b5b4c999,Gemini Flash,positive,positive
+self_000,Gemini Flash,positive,positive
+32be53ee,Gemini Flash,negative,negative
+58803b86,Gemini Flash,negative,negative
+b5161571,Gemini Flash,neutral,neutral
+self_002,Gemini Flash,negative,negative
+self_001,Gemini Flash,negative,negative
+self_003,Gemini Flash,negative,negative
+self_005,Gemini Flash,negative,negative
+self_008,Gemini Flash,positive,positive
+self_004,Gemini Flash,positive,positive
+self_009,Gemini Flash,mixed,mixed
+self_006,Gemini Flash,neutral,neutral
+self_010,Gemini Flash,positive,positive
+self_011,Gemini Flash,positive,positive
+self_013,Gemini Flash,negative,negative
+self_007,Gemini Flash,mixed,mixed
+self_012,Gemini Flash,positive,positive
+self_014,Gemini Flash,positive,positive
+self_016,Gemini Flash,negative,"""negative"""
+self_018,Gemini Flash,mixed,mixed
+self_017,Gemini Flash,positive,positive
+self_015,Gemini Flash,negative,negative
+self_020,Gemini Flash,positive,positive
+self_019,Gemini Flash,negative,negative
+self_022,Gemini Flash,negative,negative
+self_023,Gemini Flash,positive,positive
+self_021,Gemini Flash,positive,positive
+self_024,Gemini Flash,negative,negative
+self_025,Gemini Flash,mixed,mixed
+self_027,Gemini Flash,negative,negative
+self_029,Gemini Flash,negative,negative
+self_028,Gemini Flash,neutral,Neutral
+self_032,Gemini Flash,negative,negative
+self_026,Gemini Flash,positive,positive
+self_033,Gemini Flash,negative,negative
+self_034,Gemini Flash,mixed,mixed
+self_031,Gemini Flash,positive,positive
+self_030,Gemini Flash,negative,negative
+self_036,Gemini Flash,negative,negative
+self_035,Gemini Flash,mixed,mixed
+self_039,Gemini Flash,negative,negative
+self_040,Gemini Flash,mixed,mixed
+self_037,Gemini Flash,negative,negative
+self_041,Gemini Flash,mixed,mixed
+self_043,Gemini Flash,positive,positive
+self_042,Gemini Flash,negative,negative
+self_038,Gemini Flash,negative,negative
+self_044,Gemini Flash,negative,negative
+self_045,Gemini Flash,negative,negative
+self_046,Gemini Flash,mixed,mixed
+self_047,Gemini Flash,negative,negative
+self_048,Gemini Flash,positive,positive
+self_051,Gemini Flash,positive,positive
+self_049,Gemini Flash,negative,negative
+self_054,Gemini Flash,negative,negative
+self_052,Gemini Flash,negative,negative
+self_055,Gemini Flash,negative,negative
+self_053,Gemini Flash,negative,negative
+self_050,Gemini Flash,negative,negative
+self_056,Gemini Flash,positive,positive
+self_057,Gemini Flash,negative,negative
+self_059,Gemini Flash,mixed,mixed
+self_058,Gemini Flash,negative,negative
+self_060,Gemini Flash,positive,positive
+self_062,Gemini Flash,negative,negative
+self_064,Gemini Flash,neutral,neutral
+self_065,Gemini Flash,positive,positive
+self_061,Gemini Flash,negative,negative
+self_066,Gemini Flash,positive,positive
+self_067,Gemini Flash,mixed,mixed
+self_069,Gemini Flash,positive,positive
+self_068,Gemini Flash,negative,negative
+self_070,Gemini Flash,negative,negative
+self_072,Gemini Flash,negative,negative
+self_071,Gemini Flash,positive,positive
+self_074,Gemini Flash,positive,positive
+self_073,Gemini Flash,mixed,mixed
+self_076,Gemini Flash,positive,positive
+self_075,Gemini Flash,neutral,neutral
+self_077,Gemini Flash,positive,positive
+self_078,Gemini Flash,neutral,neutral
+self_063,Gemini Flash,negative,negative
+self_079,Gemini Flash,negative,negative
+self_080,Gemini Flash,negative,negative
+self_081,Gemini Flash,mixed,mixed
+self_082,Gemini Flash,mixed,mixed
+self_084,Gemini Flash,positive,positive
+self_085,Gemini Flash,mixed,mixed
+self_083,Gemini Flash,negative,negative
+self_086,Gemini Flash,mixed,mixed
+self_088,Gemini Flash,positive,positive
+self_087,Gemini Flash,positive,positive
+self_089,Gemini Flash,negative,negative
+self_092,Gemini Flash,negative,negative
+self_090,Gemini Flash,positive,positive
+self_095,Gemini Flash,negative,negative
+self_094,Gemini Flash,mixed,mixed
+self_096,Gemini Flash,negative,negative
+self_093,Gemini Flash,positive,positive
+self_098,Gemini Flash,negative,negative
+self_097,Gemini Flash,positive,positive
+self_100,Gemini Flash,negative,negative
+self_099,Gemini Flash,positive,positive
+self_101,Gemini Flash,mixed,mixed
+self_103,Gemini Flash,negative,negative
+self_102,Gemini Flash,positive,positive
+self_104,Gemini Flash,negative,negative
+self_107,Gemini Flash,positive,positive
+self_108,Gemini Flash,negative,negative
+self_105,Gemini Flash,positive,positive
+self_106,Gemini Flash,negative,negative
+self_110,Gemini Flash,negative,negative
+self_109,Gemini Flash,positive,positive
+self_112,Gemini Flash,positive,positive
+self_114,Gemini Flash,positive,positive
+self_115,Gemini Flash,negative,negative
+self_117,Gemini Flash,positive,positive
+self_111,Gemini Flash,neutral,neutral
+self_113,Gemini Flash,negative,negative
+self_119,Gemini Flash,mixed,mixed
+self_116,Gemini Flash,neutral,neutral
+self_120,Gemini Flash,positive,positive
+self_018,Claude Sonnet,mixed,mixed
+af1b20f5,Claude Sonnet,mixed,mixed
+f247d804,Claude Fable 5,negative,negative
+abcbcac2,Claude Fable 5,negative,negative
+e1eb49e7,Claude Fable 5,negative,negative
+ca2f9771,Claude Fable 5,positive,positive
+6f199a93,Claude Fable 5,positive,positive
+79aa3862,Claude Fable 5,negative,negative
+ec92939f,Claude Fable 5,positive,positive
+6000a331,Claude Fable 5,negative,negative
+9c779b18,Claude Fable 5,positive,positive
+87f88e6e,Claude Fable 5,positive,positive
+5e54658e,Claude Fable 5,negative,negative
+9fd0355f,Claude Fable 5,unparseable,(empty content)
+f60e51a1,Claude Fable 5,positive,positive
+f00ce22d,Claude Fable 5,positive,positive
+41299b0b,Claude Fable 5,negative,negative
+8c74c249,Claude Fable 5,negative,negative
+27179227,Claude Fable 5,positive,positive
+af1b20f5,Claude Fable 5,positive,positive
+c2145ec4,Claude Fable 5,negative,negative
+50da5552,Claude Fable 5,negative,negative
+06fed2b1,Claude Fable 5,negative,negative
+196cbd4d,Claude Fable 5,mixed,mixed
+9e0ca5c6,Claude Fable 5,mixed,mixed
+6db4635d,Claude Fable 5,negative,negative
+ef967936,Claude Fable 5,negative,negative
+3e6b274d,Claude Fable 5,negative,negative
+311dacc5,Claude Fable 5,negative,negative
+1e5e5c9b,Claude Fable 5,negative,negative
+0e8ed23e,Claude Fable 5,negative,negative
+53dba760,Claude Fable 5,negative,negative
+ee47c688,Claude Fable 5,unparseable,(empty content)
+900dab3c,Claude Fable 5,positive,positive
+b0b78093,Claude Fable 5,positive,positive
+9a4a8453,Claude Fable 5,mixed,mixed
+2a9f640f,Claude Fable 5,negative,negative
+97c1326d,Claude Fable 5,negative,negative
+47a0bbe9,Claude Fable 5,negative,negative
+f92b9824,Claude Fable 5,mixed,mixed
+d379bd3b,Claude Fable 5,negative,negative
+fcc1e34e,Claude Fable 5,negative,negative
+f1b95b5c,Claude Fable 5,mixed,mixed
+f468ebda,Claude Fable 5,negative,negative
+13a27ed7,Claude Fable 5,positive,positive
+a25d8456,Claude Fable 5,negative,negative
+042536d9,Claude Fable 5,unparseable,(empty content)
+2db3e1fb,Claude Fable 5,negative,negative
+2f7ce106,Claude Fable 5,negative,negative
+163cda9a,Claude Fable 5,negative,negative
+a808f728,Claude Fable 5,negative,negative
+0e51c622,Claude Fable 5,neutral,neutral
+d11f8fbc,Claude Fable 5,negative,negative
+821ac920,Claude Fable 5,negative,negative
+80648800,Claude Fable 5,negative,negative
+d27b5699,Claude Fable 5,negative,negative
+b61e559a,Claude Fable 5,negative,negative
+50bdae04,Claude Fable 5,negative,negative
+6994ad64,Claude Fable 5,negative,negative
+4e3ce4c4,Claude Fable 5,negative,negative
+cb8dd9da,Claude Fable 5,negative,negative
+f79bfff3,Claude Fable 5,negative,negative
+2b4699af,Claude Fable 5,positive,positive
+21dd3549,Claude Fable 5,negative,negative
+b14ffb79,Claude Fable 5,positive,positive
+758b2fd1,Claude Fable 5,negative,negative
+92aba6b0,Claude Fable 5,positive,positive
+af4ca369,Claude Fable 5,positive,positive
+9953df42,Claude Fable 5,negative,negative
+05b4f75b,Claude Fable 5,positive,positive
+6b902b43,Claude Fable 5,negative,negative
+a7854a05,Claude Fable 5,negative,negative
+68227bfb,Claude Fable 5,positive,positive
+81c176c4,Claude Fable 5,negative,negative
+47cce6db,Claude Fable 5,negative,negative
+fd53b315,Claude Fable 5,positive,positive
+ac18aa51,Claude Fable 5,negative,negative
+823ffb67,Claude Fable 5,mixed,mixed
+82a22fb1,Claude Fable 5,mixed,mixed
+bb803bc9,Claude Fable 5,negative,negative
+dc20bb4a,Claude Fable 5,negative,negative
+4a75b058,Claude Fable 5,negative,negative
+2b787198,Claude Fable 5,neutral,neutral
+5bbd49da,Claude Fable 5,negative,negative
+795816fa,Claude Fable 5,negative,negative
+2bbd52fc,Claude Fable 5,positive,positive
+35053c9a,Claude Fable 5,positive,positive
+13419ac9,Claude Fable 5,positive,positive
+f491ec88,Claude Fable 5,positive,positive
+91813fea,Claude Fable 5,positive,positive
+24f3a110,Claude Fable 5,mixed,mixed
+6e4058c4,Claude Fable 5,negative,negative
+242de514,Claude Fable 5,mixed,mixed
+c26163f5,Claude Fable 5,mixed,mixed
+74fc7335,Claude Fable 5,negative,negative
+4c9f516e,Claude Fable 5,negative,negative
+603ebcfe,Claude Fable 5,mixed,mixed
+f1fe68dc,Claude Fable 5,negative,negative
+03904dd8,Claude Fable 5,negative,negative
+75c68eee,Claude Fable 5,negative,negative
+9d52e5b2,Claude Fable 5,negative,negative
+08350da3,Claude Fable 5,negative,negative
+4c016fd0,Claude Fable 5,negative,negative
+4b55893b,Claude Fable 5,negative,negative
+87657e78,Claude Fable 5,negative,negative
+63c54a65,Claude Fable 5,mixed,mixed
+dabcbadb,Claude Fable 5,negative,negative
+22a83408,Claude Fable 5,positive,positive
+a40aa278,Claude Fable 5,unparseable,(empty content)
+f3e1bae7,Claude Fable 5,negative,negative
+76a4c99a,Claude Fable 5,positive,positive
+74f982ea,Claude Fable 5,positive,positive
+86f2809d,Claude Fable 5,negative,negative
+4672ad0f,Claude Fable 5,positive,positive
+67fc1984,Claude Fable 5,negative,negative
+b41ac6e8,Claude Fable 5,negative,negative
+d6e7e2b6,Claude Fable 5,positive,positive
+a9ed0aa2,Claude Fable 5,positive,positive
+dc44f136,Claude Fable 5,negative,negative
+c65d836e,Claude Fable 5,negative,negative
+64fe49ed,Claude Fable 5,negative,negative
+0cea96f0,Claude Fable 5,negative,negative
+471ed9ae,Claude Fable 5,negative,negative
+787769a2,Claude Fable 5,negative,negative
+b065b82d,Claude Fable 5,negative,negative
+7a081fb8,Claude Fable 5,negative,negative
+c09c3e07,Claude Fable 5,negative,negative
+ab839b24,Claude Fable 5,negative,negative
+7985ec2e,Claude Fable 5,negative,negative
+71bcfe94,Claude Fable 5,negative,negative
+ac2f9a2d,Claude Fable 5,negative,negative
+4efe618a,Claude Fable 5,positive,positive
+1015166e,Claude Fable 5,positive,positive
+948a628e,Claude Fable 5,negative,negative
+d22fcf74,Claude Fable 5,negative,negative
+3b02e26a,Claude Fable 5,negative,negative
+123d7847,Claude Fable 5,negative,negative
+1cab96a3,Claude Fable 5,negative,negative
+473b5634,Claude Fable 5,positive,positive
+7504bb1d,Claude Fable 5,neutral,neutral
+c9495991,Claude Fable 5,neutral,neutral
+6628b157,Claude Fable 5,negative,negative
+6bd2fbb5,Claude Fable 5,positive,positive
+f2b89358,Claude Fable 5,positive,positive
+91438acf,Claude Fable 5,unparseable,(empty content)
+dd659a35,Claude Fable 5,negative,negative
+043d696d,Claude Fable 5,negative,negative
+7fa5a522,Claude Fable 5,negative,negative
+b5ffb98d,Claude Fable 5,negative,negative
+283219d4,Claude Fable 5,negative,negative
+5ceb3ab0,Claude Fable 5,negative,negative
+8c689050,Claude Fable 5,negative,negative
+56b694d1,Claude Fable 5,negative,negative
+9503a560,Claude Fable 5,mixed,mixed
+b7682251,Claude Fable 5,negative,negative
+8dee0501,Claude Fable 5,negative,negative
+168a2e00,Claude Fable 5,negative,negative
+a5c0e6c7,Claude Fable 5,negative,negative
+1d348a58,Claude Fable 5,negative,negative
+015a65cd,Claude Fable 5,mixed,mixed
+909d0c60,Claude Fable 5,positive,positive
+d7b9b3de,Claude Fable 5,negative,negative
+052f2a38,Claude Fable 5,negative,negative
+e0697ddb,Claude Fable 5,negative,negative
+b173a597,Claude Fable 5,negative,negative
+be8af2af,Claude Fable 5,positive,positive
+0779d752,Claude Fable 5,mixed,mixed
+86b4e680,Claude Fable 5,mixed,mixed
+0d8fe691,Claude Fable 5,negative,negative
+6728b214,Claude Fable 5,positive,positive
+dcb08696,Claude Fable 5,negative,negative
+a11e4f82,Claude Fable 5,negative,negative
+2bb89098,Claude Fable 5,negative,negative
+2405262e,Claude Fable 5,negative,negative
+337ba332,Claude Fable 5,negative,negative
+467b229b,Claude Fable 5,negative,negative
+3a6b7d97,Claude Fable 5,negative,negative
+cb690e8d,Claude Fable 5,negative,negative
+81cb4820,Claude Fable 5,positive,positive
+0e40a483,Claude Fable 5,negative,negative
+cc6ca074,Claude Fable 5,positive,positive
+61473d9f,Claude Fable 5,negative,negative
+882d4036,Claude Fable 5,negative,negative
+cb96b117,Claude Fable 5,negative,negative
+3048c104,Claude Fable 5,negative,negative
+b2f84f02,Claude Fable 5,negative,negative
+e2fc9302,Claude Fable 5,negative,negative
+6d0050a4,Claude Fable 5,negative,negative
+bf5a9045,Claude Fable 5,negative,negative
+075f38bb,Claude Fable 5,negative,negative
+fb99907d,Claude Fable 5,negative,negative
+f273c9b7,Claude Fable 5,negative,negative
+1709a415,Claude Fable 5,negative,negative
+cd406b3b,Claude Fable 5,negative,negative
+a72c83e7,Claude Fable 5,negative,negative
+7eb480f8,Claude Fable 5,negative,negative
+cdfb60c1,Claude Fable 5,positive,positive
+1af6a8e2,Claude Fable 5,negative,negative
+0fdae536,Claude Fable 5,negative,negative
+6e74c802,Claude Fable 5,negative,negative
+39d57179,Claude Fable 5,mixed,mixed
+867f5c30,Claude Fable 5,negative,negative
+def41499,Claude Fable 5,negative,negative
+cdf2e588,Claude Fable 5,negative,negative
+c5990fde,Claude Fable 5,negative,negative
+2eca9095,Claude Fable 5,negative,negative
+04d2196e,Claude Fable 5,positive,positive
+5704871c,Claude Fable 5,positive,positive
+2d0b8fd5,Claude Fable 5,negative,negative
+58803b86,Claude Fable 5,negative,negative
+b5b4c999,Claude Fable 5,positive,positive
+1d09018e,Claude Fable 5,positive,positive
+32be53ee,Claude Fable 5,negative,negative
+b5161571,Claude Fable 5,neutral,neutral
+self_001,Claude Fable 5,negative,negative
+self_002,Claude Fable 5,negative,negative
+self_000,Claude Fable 5,positive,positive
+self_003,Claude Fable 5,negative,negative
+self_004,Claude Fable 5,positive,positive
+self_006,Claude Fable 5,neutral,neutral
+self_007,Claude Fable 5,mixed,mixed
+self_005,Claude Fable 5,negative,negative
+self_008,Claude Fable 5,positive,positive
+self_009,Claude Fable 5,mixed,mixed
+self_010,Claude Fable 5,positive,positive
+self_011,Claude Fable 5,positive,positive
+self_013,Claude Fable 5,negative,negative
+self_014,Claude Fable 5,positive,positive
+self_012,Claude Fable 5,positive,positive
+self_017,Claude Fable 5,positive,positive
+self_018,Claude Fable 5,mixed,mixed
+self_020,Claude Fable 5,positive,positive
+self_019,Claude Fable 5,negative,negative
+self_021,Claude Fable 5,positive,positive
+self_015,Claude Fable 5,negative,negative
+self_022,Claude Fable 5,negative,negative
+self_016,Claude Fable 5,negative,negative
+self_024,Claude Fable 5,negative,negative
+self_025,Claude Fable 5,mixed,mixed
+self_023,Claude Fable 5,positive,positive
+self_026,Claude Fable 5,positive,positive
+self_028,Claude Fable 5,neutral,neutral
+self_027,Claude Fable 5,negative,negative
+self_029,Claude Fable 5,negative,negative
+self_031,Claude Fable 5,positive,positive
+self_030,Claude Fable 5,negative,negative
+self_033,Claude Fable 5,negative,negative
+self_032,Claude Fable 5,negative,negative
+self_034,Claude Fable 5,mixed,mixed
+self_035,Claude Fable 5,mixed,mixed
+self_037,Claude Fable 5,negative,negative
+self_036,Claude Fable 5,negative,negative
+self_039,Claude Fable 5,negative,negative
+self_038,Claude Fable 5,negative,negative
+self_040,Claude Fable 5,mixed,mixed
+self_041,Claude Fable 5,mixed,mixed
+self_044,Claude Fable 5,negative,negative
+self_043,Claude Fable 5,positive,positive
+self_042,Claude Fable 5,negative,negative
+self_045,Claude Fable 5,negative,negative
+self_048,Claude Fable 5,positive,positive
+self_047,Claude Fable 5,negative,negative
+self_052,Claude Fable 5,negative,negative
+self_049,Claude Fable 5,negative,negative
+self_046,Claude Fable 5,mixed,mixed
+self_050,Claude Fable 5,negative,negative
+self_051,Claude Fable 5,positive,positive
+self_053,Claude Fable 5,negative,negative
+self_054,Claude Fable 5,negative,negative
+self_055,Claude Fable 5,negative,negative
+self_058,Claude Fable 5,negative,negative
+self_060,Claude Fable 5,positive,positive
+self_056,Claude Fable 5,positive,positive
+self_059,Claude Fable 5,mixed,mixed
+self_057,Claude Fable 5,negative,negative
+self_061,Claude Fable 5,negative,negative
+self_062,Claude Fable 5,negative,negative
+self_064,Claude Fable 5,neutral,neutral
+self_067,Claude Fable 5,mixed,mixed
+self_063,Claude Fable 5,negative,negative
+self_065,Claude Fable 5,positive,positive
+self_068,Claude Fable 5,negative,negative
+self_066,Claude Fable 5,positive,positive
+self_071,Claude Fable 5,positive,positive
+self_072,Claude Fable 5,negative,negative
+self_073,Claude Fable 5,mixed,mixed
+self_069,Claude Fable 5,positive,positive
+self_076,Claude Fable 5,positive,positive
+self_075,Claude Fable 5,neutral,neutral
+self_077,Claude Fable 5,positive,positive
+self_070,Claude Fable 5,negative,negative
+self_080,Claude Fable 5,negative,negative
+self_078,Claude Fable 5,neutral,neutral
+self_079,Claude Fable 5,negative,negative
+self_074,Claude Fable 5,positive,positive
+self_082,Claude Fable 5,mixed,mixed
+self_084,Claude Fable 5,positive,positive
+self_087,Claude Fable 5,positive,positive
+self_083,Claude Fable 5,negative,negative
+self_085,Claude Fable 5,mixed,mixed
+self_086,Claude Fable 5,mixed,mixed
+self_088,Claude Fable 5,mixed,mixed
+self_093,Claude Fable 5,positive,positive
+self_092,Claude Fable 5,negative,negative
+self_090,Claude Fable 5,positive,positive
+self_094,Claude Fable 5,mixed,mixed
+self_091,Claude Fable 5,mixed,mixed
+self_095,Claude Fable 5,negative,negative
+self_089,Claude Fable 5,negative,negative
+self_081,Claude Fable 5,mixed,mixed
+self_096,Claude Fable 5,negative,negative
+self_099,Claude Fable 5,positive,positive
+self_102,Claude Fable 5,positive,positive
+self_097,Claude Fable 5,positive,positive
+self_098,Claude Fable 5,negative,negative
+self_101,Claude Fable 5,mixed,mixed
+self_103,Claude Fable 5,negative,negative
+self_100,Claude Fable 5,negative,negative
+self_104,Claude Fable 5,negative,negative
+self_107,Claude Fable 5,positive,positive
+self_108,Claude Fable 5,negative,negative
+self_105,Claude Fable 5,positive,positive
+self_106,Claude Fable 5,negative,negative
+self_111,Claude Fable 5,neutral,neutral
+self_110,Claude Fable 5,negative,negative
+self_109,Claude Fable 5,positive,positive
+self_112,Claude Fable 5,positive,positive
+self_113,Claude Fable 5,negative,negative
+self_117,Claude Fable 5,positive,positive
+self_119,Claude Fable 5,mixed,mixed
+self_116,Claude Fable 5,neutral,neutral
+self_114,Claude Fable 5,positive,positive
+self_115,Claude Fable 5,negative,negative
+self_118,Claude Fable 5,negative,negative
+self_120,Claude Fable 5,positive,positive
+f247d804,Jais 2 8B,negative,negative
+79aa3862,Jais 2 8B,negative,negative
+ca2f9771,Jais 2 8B,positive,positive
+ec92939f,Jais 2 8B,positive,positive
+e1eb49e7,Jais 2 8B,negative,negative
+9fd0355f,Jais 2 8B,positive,positive
+abcbcac2,Jais 2 8B,negative,negative
+6f199a93,Jais 2 8B,positive,positive
+6000a331,Jais 2 8B,negative,negative
+87f88e6e,Jais 2 8B,positive,positive
+9c779b18,Jais 2 8B,positive,positive
+8c74c249,Jais 2 8B,negative,negative
+f00ce22d,Jais 2 8B,positive,Positive
+f60e51a1,Jais 2 8B,positive,Positive
+5e54658e,Jais 2 8B,negative,negative
+af1b20f5,Jais 2 8B,positive,positive
+41299b0b,Jais 2 8B,negative,negative
+c2145ec4,Jais 2 8B,negative,negative
+27179227,Jais 2 8B,positive,positive
+06fed2b1,Jais 2 8B,negative,negative
+50da5552,Jais 2 8B,negative,negative
+196cbd4d,Jais 2 8B,mixed,Mixed
+9a4a8453,Jais 2 8B,mixed,Mixed
+9e0ca5c6,Jais 2 8B,mixed,mixed
+6db4635d,Jais 2 8B,negative,negative
+ef967936,Jais 2 8B,negative,negative
+3e6b274d,Jais 2 8B,negative,negative
+0e8ed23e,Jais 2 8B,neutral,Neutral
+ee47c688,Jais 2 8B,neutral,Neutral
+900dab3c,Jais 2 8B,positive,positive
+311dacc5,Jais 2 8B,negative,negative
+1e5e5c9b,Jais 2 8B,negative,negative
+b0b78093,Jais 2 8B,positive,positive
+53dba760,Jais 2 8B,negative,negative
+2a9f640f,Jais 2 8B,negative,negative
+47a0bbe9,Jais 2 8B,negative,negative
+97c1326d,Jais 2 8B,negative,negative
+f92b9824,Jais 2 8B,mixed,Mixed
+fcc1e34e,Jais 2 8B,neutral,Neutral
+042536d9,Jais 2 8B,unparseable,مختلط
+f1b95b5c,Jais 2 8B,mixed,mixed
+d379bd3b,Jais 2 8B,negative,negative
+13a27ed7,Jais 2 8B,positive,positive
+f468ebda,Jais 2 8B,negative,negative
+a25d8456,Jais 2 8B,negative,negative
+2f7ce106,Jais 2 8B,negative,negative
+0e51c622,Jais 2 8B,neutral,Neutral
+d11f8fbc,Jais 2 8B,negative,negative
+2db3e1fb,Jais 2 8B,negative,negative
+80648800,Jais 2 8B,negative,negative
+a808f728,Jais 2 8B,negative,negative
+821ac920,Jais 2 8B,negative,negative
+163cda9a,Jais 2 8B,negative,negative
+6994ad64,Jais 2 8B,negative,negative
+b61e559a,Jais 2 8B,negative,negative
+d27b5699,Jais 2 8B,negative,negative
+cb8dd9da,Jais 2 8B,negative,negative
+f79bfff3,Jais 2 8B,negative,negative
+4e3ce4c4,Jais 2 8B,negative,negative
+50bdae04,Jais 2 8B,negative,negative
+2b4699af,Jais 2 8B,positive,positive
+823ffb67,Jais 2 8B,mixed,Mixed
+21dd3549,Jais 2 8B,negative,negative
+b14ffb79,Jais 2 8B,positive,positive
+758b2fd1,Jais 2 8B,unparseable,مختلط
+92aba6b0,Jais 2 8B,positive,positive
+9953df42,Jais 2 8B,negative,negative
+af4ca369,Jais 2 8B,positive,positive
+05b4f75b,Jais 2 8B,positive,positive
+6b902b43,Jais 2 8B,negative,negative
+82a22fb1,Jais 2 8B,negative,Negative
+81c176c4,Jais 2 8B,negative,negative
+fd53b315,Jais 2 8B,positive,positive
+68227bfb,Jais 2 8B,positive,positive
+a7854a05,Jais 2 8B,negative,negative
+47cce6db,Jais 2 8B,negative,negative
+ac18aa51,Jais 2 8B,negative,negative
+dc20bb4a,Jais 2 8B,negative,negative
+2b787198,Jais 2 8B,neutral,Neutral
+5bbd49da,Jais 2 8B,negative,negative
+bb803bc9,Jais 2 8B,negative,negative
+4a75b058,Jais 2 8B,negative,negative
+795816fa,Jais 2 8B,negative,negative
+13419ac9,Jais 2 8B,positive,positive
+2bbd52fc,Jais 2 8B,positive,positive
+35053c9a,Jais 2 8B,positive,positive
+f491ec88,Jais 2 8B,positive,positive
+91813fea,Jais 2 8B,positive,positive
+603ebcfe,Jais 2 8B,neutral,Neutral
+24f3a110,Jais 2 8B,neutral,Neutral
+242de514,Jais 2 8B,positive,positive
+c26163f5,Jais 2 8B,negative,negative
+6e4058c4,Jais 2 8B,negative,negative
+74fc7335,Jais 2 8B,negative,negative
+75c68eee,Jais 2 8B,negative,negative
+4c9f516e,Jais 2 8B,negative,negative
+f1fe68dc,Jais 2 8B,negative,negative
+9d52e5b2,Jais 2 8B,negative,negative
+03904dd8,Jais 2 8B,negative,Negative
+87657e78,Jais 2 8B,negative,negative
+dabcbadb,Jais 2 8B,negative,negative
+08350da3,Jais 2 8B,negative,Negative
+4c016fd0,Jais 2 8B,negative,negative
+22a83408,Jais 2 8B,positive,positive
+63c54a65,Jais 2 8B,mixed,Mixed
+a40aa278,Jais 2 8B,positive,positive
+4b55893b,Jais 2 8B,negative,negative
+f3e1bae7,Jais 2 8B,negative,negative
+74f982ea,Jais 2 8B,positive,positive
+67fc1984,Jais 2 8B,negative,negative
+76a4c99a,Jais 2 8B,positive,positive
+86f2809d,Jais 2 8B,negative,negative
+4672ad0f,Jais 2 8B,positive,positive
+b41ac6e8,Jais 2 8B,negative,negative
+c65d836e,Jais 2 8B,negative,negative
+dc44f136,Jais 2 8B,negative,negative
+d6e7e2b6,Jais 2 8B,positive,positive
+471ed9ae,Jais 2 8B,negative,negative
+a9ed0aa2,Jais 2 8B,positive,positive
+0cea96f0,Jais 2 8B,negative,negative
+787769a2,Jais 2 8B,negative,negative
+64fe49ed,Jais 2 8B,negative,negative
+c09c3e07,Jais 2 8B,negative,negative
+b065b82d,Jais 2 8B,negative,negative
+7a081fb8,Jais 2 8B,negative,negative
+ab839b24,Jais 2 8B,negative,negative
+7985ec2e,Jais 2 8B,negative,negative
+ac2f9a2d,Jais 2 8B,negative,negative
+71bcfe94,Jais 2 8B,negative,negative
+948a628e,Jais 2 8B,negative,negative
+4efe618a,Jais 2 8B,positive,positive
+3b02e26a,Jais 2 8B,negative,negative
+1015166e,Jais 2 8B,positive,positive
+d22fcf74,Jais 2 8B,negative,negative
+123d7847,Jais 2 8B,negative,negative
+1cab96a3,Jais 2 8B,negative,negative
+473b5634,Jais 2 8B,positive,positive
+91438acf,Jais 2 8B,unparseable,مختلط
+7504bb1d,Jais 2 8B,neutral,Neutral
+c9495991,Jais 2 8B,neutral,neutral
+f2b89358,Jais 2 8B,positive,positive
+6bd2fbb5,Jais 2 8B,positive,positive
+6628b157,Jais 2 8B,negative,negative
+dd659a35,Jais 2 8B,negative,negative
+b5ffb98d,Jais 2 8B,negative,negative
+043d696d,Jais 2 8B,negative,negative
+7fa5a522,Jais 2 8B,negative,negative
+8c689050,Jais 2 8B,negative,negative
+5ceb3ab0,Jais 2 8B,negative,negative
+56b694d1,Jais 2 8B,negative,negative
+283219d4,Jais 2 8B,negative,negative
+9503a560,Jais 2 8B,neutral,Neutral
+8dee0501,Jais 2 8B,negative,negative
+b7682251,Jais 2 8B,negative,negative
+a5c0e6c7,Jais 2 8B,negative,negative
+1d348a58,Jais 2 8B,negative,negative
+168a2e00,Jais 2 8B,negative,negative
+015a65cd,Jais 2 8B,mixed,mixed
+909d0c60,Jais 2 8B,positive,positive
+052f2a38,Jais 2 8B,negative,negative
+b173a597,Jais 2 8B,negative,negative
+d7b9b3de,Jais 2 8B,negative,negative
+e0697ddb,Jais 2 8B,negative,negative
+0779d752,Jais 2 8B,positive,positive
+86b4e680,Jais 2 8B,neutral,Neutral
+be8af2af,Jais 2 8B,positive,positive
+0d8fe691,Jais 2 8B,negative,negative
+6728b214,Jais 2 8B,positive,positive
+dcb08696,Jais 2 8B,negative,negative
+a11e4f82,Jais 2 8B,negative,negative
+2bb89098,Jais 2 8B,negative,negative
+337ba332,Jais 2 8B,negative,negative
+2405262e,Jais 2 8B,negative,negative
+467b229b,Jais 2 8B,negative,negative
+3a6b7d97,Jais 2 8B,negative,negative
+81cb4820,Jais 2 8B,positive,positive
+0e40a483,Jais 2 8B,negative,negative
+cb690e8d,Jais 2 8B,negative,negative
+61473d9f,Jais 2 8B,negative,negative
+b2f84f02,Jais 2 8B,negative,Negative
+cb96b117,Jais 2 8B,negative,negative
+cc6ca074,Jais 2 8B,positive,positive
+3048c104,Jais 2 8B,negative,negative
+bf5a9045,Jais 2 8B,negative,negative
+882d4036,Jais 2 8B,negative,negative
+e2fc9302,Jais 2 8B,negative,negative
+f273c9b7,Jais 2 8B,negative,negative
+a72c83e7,Jais 2 8B,negative,negative
+075f38bb,Jais 2 8B,neutral,neutral
+1709a415,Jais 2 8B,negative,negative
+6d0050a4,Jais 2 8B,negative,negative
+fb99907d,Jais 2 8B,negative,negative
+cd406b3b,Jais 2 8B,negative,negative
+7eb480f8,Jais 2 8B,negative,negative
+def41499,Jais 2 8B,negative,negative
+39d57179,Jais 2 8B,positive,positive
+6e74c802,Jais 2 8B,negative,negative
+867f5c30,Jais 2 8B,negative,negative
+0fdae536,Jais 2 8B,negative,negative
+cdfb60c1,Jais 2 8B,positive,positive
+1af6a8e2,Jais 2 8B,negative,negative
+c5990fde,Jais 2 8B,negative,negative
+cdf2e588,Jais 2 8B,negative,negative
+04d2196e,Jais 2 8B,positive,positive
+2eca9095,Jais 2 8B,negative,negative
+2d0b8fd5,Jais 2 8B,mixed,mixed
+5704871c,Jais 2 8B,positive,positive
+1d09018e,Jais 2 8B,positive,positive
+b5b4c999,Jais 2 8B,positive,positive
+32be53ee,Jais 2 8B,negative,negative
+58803b86,Jais 2 8B,negative,negative
+b5161571,Jais 2 8B,neutral,Neutral
+self_000,Jais 2 8B,positive,positive
+self_001,Jais 2 8B,negative,negative
+self_002,Jais 2 8B,negative,negative
+self_003,Jais 2 8B,negative,negative
+self_004,Jais 2 8B,positive,positive
+self_005,Jais 2 8B,negative,Negative
+self_006,Jais 2 8B,neutral,Neutral
+self_007,Jais 2 8B,mixed,mixed
+self_008,Jais 2 8B,positive,positive
+self_009,Jais 2 8B,mixed,Mixed
+self_010,Jais 2 8B,positive,positive
+self_011,Jais 2 8B,positive,positive
+self_012,Jais 2 8B,positive,positive
+self_013,Jais 2 8B,negative,negative
+self_014,Jais 2 8B,positive,positive
+self_015,Jais 2 8B,negative,negative
+self_016,Jais 2 8B,negative,negative
+self_017,Jais 2 8B,positive,positive
+self_018,Jais 2 8B,neutral,Neutral
+self_019,Jais 2 8B,negative,negative
+self_020,Jais 2 8B,positive,positive
+self_021,Jais 2 8B,positive,positive
+self_022,Jais 2 8B,negative,negative
+self_023,Jais 2 8B,positive,positive
+self_024,Jais 2 8B,negative,negative
+self_025,Jais 2 8B,mixed,Mixed
+self_026,Jais 2 8B,positive,positive
+self_027,Jais 2 8B,negative,negative
+self_028,Jais 2 8B,neutral,Neutral
+self_029,Jais 2 8B,negative,negative
+self_030,Jais 2 8B,negative,negative
+self_031,Jais 2 8B,positive,positive
+self_032,Jais 2 8B,negative,negative
+self_033,Jais 2 8B,negative,negative
+self_034,Jais 2 8B,neutral,Neutral
+self_035,Jais 2 8B,negative,negative
+self_036,Jais 2 8B,negative,negative
+self_037,Jais 2 8B,negative,negative
+self_038,Jais 2 8B,negative,negative
+self_039,Jais 2 8B,negative,negative
+self_040,Jais 2 8B,mixed,Mixed
+self_041,Jais 2 8B,negative,negative
+self_042,Jais 2 8B,negative,negative
+self_043,Jais 2 8B,positive,positive
+self_044,Jais 2 8B,negative,negative
+self_045,Jais 2 8B,neutral,Neutral
+self_046,Jais 2 8B,mixed,Mixed
+self_047,Jais 2 8B,negative,negative
+self_048,Jais 2 8B,positive,positive
+self_049,Jais 2 8B,negative,negative
+self_050,Jais 2 8B,negative,negative
+self_051,Jais 2 8B,positive,positive
+self_052,Jais 2 8B,negative,Negative
+self_053,Jais 2 8B,negative,Negative
+self_054,Jais 2 8B,negative,negative
+self_055,Jais 2 8B,negative,negative
+self_056,Jais 2 8B,positive,positive
+self_057,Jais 2 8B,negative,negative
+self_058,Jais 2 8B,negative,negative
+self_059,Jais 2 8B,mixed,Mixed
+self_060,Jais 2 8B,positive,positive
+self_061,Jais 2 8B,negative,negative
+self_062,Jais 2 8B,negative,negative
+self_063,Jais 2 8B,negative,negative
+self_064,Jais 2 8B,neutral,Neutral
+self_065,Jais 2 8B,positive,positive
+self_066,Jais 2 8B,positive,positive
+self_067,Jais 2 8B,mixed,Mixed
+self_068,Jais 2 8B,negative,negative
+self_069,Jais 2 8B,positive,positive
+self_070,Jais 2 8B,negative,negative
+self_071,Jais 2 8B,positive,positive
+self_072,Jais 2 8B,negative,negative
+self_073,Jais 2 8B,neutral,Neutral
+self_074,Jais 2 8B,positive,positive
+self_075,Jais 2 8B,neutral,Neutral
+self_076,Jais 2 8B,positive,positive
+self_077,Jais 2 8B,positive,positive
+self_078,Jais 2 8B,neutral,neutral
+self_079,Jais 2 8B,negative,negative
+self_080,Jais 2 8B,negative,negative
+self_081,Jais 2 8B,mixed,Mixed
+self_082,Jais 2 8B,mixed,Mixed
+self_083,Jais 2 8B,negative,negative
+self_084,Jais 2 8B,positive,positive
+self_085,Jais 2 8B,mixed,Mixed
+self_086,Jais 2 8B,neutral,Neutral
+self_087,Jais 2 8B,positive,positive
+self_088,Jais 2 8B,positive,positive
+self_089,Jais 2 8B,negative,negative
+self_090,Jais 2 8B,positive,positive
+self_091,Jais 2 8B,neutral,Neutral
+self_092,Jais 2 8B,negative,negative
+self_093,Jais 2 8B,positive,positive
+self_094,Jais 2 8B,positive,Positive
+self_095,Jais 2 8B,negative,negative
+self_096,Jais 2 8B,negative,negative
+self_097,Jais 2 8B,positive,positive
+self_098,Jais 2 8B,negative,negative
+self_099,Jais 2 8B,positive,positive
+self_100,Jais 2 8B,negative,negative
+self_101,Jais 2 8B,mixed,Mixed
+self_102,Jais 2 8B,positive,positive
+self_103,Jais 2 8B,negative,negative
+self_104,Jais 2 8B,negative,negative
+self_105,Jais 2 8B,positive,positive
+self_106,Jais 2 8B,negative,negative
+self_107,Jais 2 8B,positive,positive
+self_108,Jais 2 8B,negative,negative
+self_109,Jais 2 8B,positive,positive
+self_110,Jais 2 8B,negative,negative
+self_111,Jais 2 8B,neutral,Neutral
+self_112,Jais 2 8B,positive,positive
+self_113,Jais 2 8B,negative,Negative
+self_114,Jais 2 8B,positive,positive
+self_115,Jais 2 8B,negative,negative
+self_116,Jais 2 8B,neutral,Neutral
+self_117,Jais 2 8B,positive,positive
+self_118,Jais 2 8B,negative,negative
+self_119,Jais 2 8B,mixed,Mixed
+self_120,Jais 2 8B,positive,positive
+6000a331,Gemini Flash,negative,negative
+9fd0355f,Gemini Flash,mixed,mixed
+6db4635d,Gemini Flash,negative,negative
+21dd3549,Gemini Flash,negative,negative
+74fc7335,Gemini Flash,negative,negative
+d22fcf74,Gemini Flash,negative,negative
+5ceb3ab0,Gemini Flash,negative,negative
+b2f84f02,Gemini Flash,negative,negative
+a72c83e7,Gemini Flash,negative,negative
+0fdae536,Gemini Flash,negative,negative
+1af6a8e2,Gemini Flash,negative,negative
+c5990fde,Gemini Flash,negative,negative
+self_091,Gemini Flash,negative,negative
+self_118,Gemini Flash,negative,negative

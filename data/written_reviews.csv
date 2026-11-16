@@ -1,0 +1,122 @@
+review_id,participant,country,app,sentiment,review_text
+self_000,P01,UAE,talabat,positive,مشاء الله طلبات صار يوصل الاكل حار و الطلبه كامله ما فيها نواقص
+self_001,P01,UAE,talabat,negative,التطبيق صار ثقيل مره من بعد التحديث الجديد كل ما افتحه يعلق
+self_002,P01,UAE,noon,negative,صراحه خدمه العملاء ضعيفه جربت اتواصل معاهم ٣ ايام و ردي واحد ما جاني
+self_003,P01,UAE,noon,negative,الاسعار مبالغ فيها بصراحه مقارنه بالسوق
+self_004,P01,UAE,careem,positive,الشباب سواقين محترمين و التطبيق سهل و بسيط ما يعقد الامور
+self_005,P01,UAE,careem,negative,كريم صار غالي مره و ما في شفافيه بالسعر احيانا يطلع سعر ثاني
+self_006,P01,UAE,noon,neutral,تجربتي مع نون كانت ok بس مو مميزه يعني عاديه
+self_007,P01,UAE,talabat,mixed,احيانا يوصل الاكل بارد و احيانا حار يعني مره حسب المطعم
+self_008,P01,UAE,talabat,positive,يستاهل الخمس نجوم بجداره، الاسرع و الافضل
+self_009,P01,UAE,talabat,mixed,صراحه ما اعرف كيف احكم بعد، مره كويس مره يعلق
+self_010,P01,UAE,noon,positive,افضل من امازون بكثير و التوصيل مجاني للعربيات
+self_011,P01,UAE,noon,positive,كفو و يستاهل الدعم
+self_012,P01,UAE,noon,positive,التطبيق مفيد و سريع في طلبي
+self_013,P01,UAE,talabat,negative,التوصيل تأخر نص ساعه و الاكل وصل بارد صراحه خيبتوا ظني
+self_014,P02,UAE,talabat,positive,مره زين التطبيق يسوي شغله
+self_015,P02,UAE,talabat,negative,خرا التوصيل ما يوصل
+self_016,P02,UAE,talabat,negative,ما اشتغل عندي ع هالجهاز
+self_017,P02,UAE,noon,positive,صراحه شي كويس
+self_018,P02,UAE,noon,mixed,كويس التطبيق بس غالي
+self_019,P02,UAE,careem,negative,يا رجال خربوا التوصيل
+self_020,P02,UAE,careem,positive,والله العظيم تطبيق ممتاز
+self_021,P02,UAE,talabat,positive,مره كويس وصلني الطلب بسرعه
+self_022,P02,UAE,talabat,negative,خرا التطبيق مايفتح
+self_023,P02,UAE,talabat,positive,يعطيكم العافيه ع الخدمه السريعه 🌹
+self_024,P02,UAE,noon,negative,غلاء فاحش ما اقدر اطلب
+self_025,P02,UAE,careem,mixed,زين بس في اشياء تتصلح
+self_026,P03,UAE,talabat,positive,طلبات صار احسن من قبل بكتير، التوصيل بوقته و الاسعار معقوله
+self_027,P03,UAE,talabat,negative,التطبيق والله تعب نفسي، كل شي يطلب منك تسجيل دخول
+self_028,P03,UAE,noon,neutral,نون تجربتي عاديه معاهم، مو حلوه و مو خايه يعني بين بين
+self_029,P03,UAE,careem,negative,كريم يطلع سعر ما تعرفه لين ما تخلص، مره مزعج
+self_030,P03,UAE,noon,negative,نون وصلني الطلب ناقص، كلمت الدعم و قعدت ارسللهم صور و ما ردوا
+self_031,P03,UAE,careem,positive,سواقين كريم محترمين و الله
+self_032,P03,UAE,talabat,mixed,طلبات لما في تخفيض كبير التطبيق يعلق و ما تلحق العرض، محبط
+self_033,P03,UAE,noon,negative,صديقي اشترى جوال من نون و طلع فيه مشكله، يعني الموضوع طلع نصب
+self_034,P03,UAE,careem,mixed,كريم تجربتي معاه 80 بالمئه كويسه، يعني بين بين
+self_035,P03,UAE,talabat,mixed,التطبيق لما يشتغل ماشي و لما يعلق يصير سيء
+self_036,P03,UAE,talabat,negative,طلبت غدا و الاكل وصلني بارد، الموظفه ما كانت تهتم
+self_037,P03,UAE,careem,negative,كريم سحبوا مني ١٥ درهم رسوم ما طلبتها، كلمتهم ثلاث مرات، الرسوم تضايق
+self_038,P03,UAE,talabat,negative,والله زعلت وايد لما شفت انهم شالو مطعم ابو شنب من اللسته
+self_039,P03,UAE,careem,negative,كريم ما عاد يعجبني، رسوم اضافيه تطلع كل ما تطلب، يعني صراحه سيء
+self_040,P04,UAE,talabat,negative,الاسعار مره مبالغ فيها مع ان التطبيق زين
+self_041,P04,UAE,talabat,mixed,استخدم التطبيق من سنتين و ما عندي مشاكل الا الاسبوع الماضي المندوب كان سيئ جدا
+self_042,P04,UAE,talabat,negative,التطبيق يعلق على جوالي ما اعرف ليش، مسحت الكاش و نصبته من جديد نفس المشكله
+self_043,P04,UAE,noon,positive,احب التصميم الجديد للتطبيق نظيف و مرتب
+self_044,P04,UAE,noon,negative,الاسترجاع مستحيل بصراحه، انتظرت ٣ اسابيع و لا شي
+self_045,P04,UAE,noon,mixed,ما فهمت ليش في رسوم على الدفع عند الاستلام
+self_046,P04,UAE,careem,mixed,الكباتن محترمين و معاملتهم حلوه، بس التطبيق نفسه متوسط
+self_047,P04,UAE,noon,negative,الاسعار زادت وايد لدرجة اني حذفت التطبيق و رحت على كريم بايك
+self_048,P04,UAE,talabat,positive,طلبات برو يستاهل اذا تطلب وايد، يوفر فلوس
+self_049,P04,UAE,noon,negative,خدمة العملاء سيئه جدا، ما يردون ابدا
+self_050,P04,UAE,talabat,mixed,كنت استخدم التطبيق من سنين و فجاه غيروا كل شي صرت ما افهمه
+self_051,P04,UAE,talabat,positive,الاكل وصل بسرعه و كان حار، ما عندي ملاحظات
+self_052,P04,UAE,talabat,negative,ما يصير كذا ابد
+self_053,P04,UAE,noon,negative,صاروا ياخذون رسوم الغاء؟ هالسخافه
+self_054,P05,UAE,talabat,negative,سيء جدا ما انصح فيه
+self_055,P05,UAE,talabat,negative,خرا التطبيق
+self_056,P05,UAE,talabat,positive,تطبيق ممتاز وسريع
+self_057,P05,UAE,talabat,negative,مافي فايده منه الصراحه
+self_058,P05,UAE,talabat,negative,غالي مره مقارنه بغيره
+self_059,P05,UAE,talabat,mixed,التطبيق زين بس بطيء
+self_060,P05,UAE,noon,positive,كفو و ما شاء الله
+self_061,P05,UAE,noon,negative,تطبيق فاشل
+self_062,P05,UAE,careem,negative,المندوب ما يعرف
+self_063,P05,UAE,talabat,negative,والله الطلب وصل متأخر ثلاث ساعات و الكابتن ما رد على الهاتف، و لما كلمت الدعم قالوا لازم ننتظر ٢٤ ساعه، هذا شي مره سيء و ما توقعته منهم
+self_064,P05,UAE,noon,neutral,ماشي الحال، لا بأس به
+self_065,P06,Saudi,talabat,positive,ما شاء الله التطبيق صار اسرع من قبل، كنت ادعي لكم كل ما اطلع من البيت
+self_066,P06,Saudi,talabat,positive,الطلب وصل بسرعه و الحمدلله على كل حال
+self_067,P06,Saudi,talabat,mixed,نعم التوصيل سريع بس الاسعار مرتفعه شوي
+self_068,P06,Saudi,noon,negative,صراحه الدعم فاشل ما يردون من ثلاث ايام
+self_069,P06,Saudi,careem,positive,تجربتي مع كريم كانت ممتازه، السواقين محترمين و ما قصروا
+self_070,P06,Saudi,talabat,negative,الاكل وصل بارد و شكيت للمندوب و قال هذا مو شغلي
+self_071,P06,Saudi,talabat,positive,الله يعطيكم العافيه على المجهود
+self_072,P06,Saudi,noon,negative,تطبيق نون صار مليان مشاكل بعد التحديث الاخير
+self_073,P06,Saudi,talabat,mixed,زين التطبيق بس يبيله اضافه مطاعم اكثر
+self_074,P06,Saudi,careem,positive,كريم صار اسعاره معقوله مقارنه باول
+self_075,P06,Saudi,talabat,neutral,تجربتي كانت عاديه، ما في شي مميز
+self_076,P06,Saudi,noon,positive,يستاهل التطبيق خمس نجوم انصح فيه
+self_077,P06,Saudi,talabat,positive,ما شاءلله التوصيل صار ممتاز، كنت متخوف من التطبيق بس طلع كويس
+self_078,P06,Saudi,noon,mixed,ما اشوف فرق بين نون و طلبات صراحه، كلهم نفس الشي
+self_079,P06,Saudi,talabat,negative,يا اخوي التطبيق صار فاشل، كل ما احاول اطلع يعلق، خلاص حذفته
+self_080,P06,Saudi,talabat,negative,التطبيق خايس
+self_081,P07,Saudi,talabat,mixed,طلبات كان زين بزمن، يستخدمه الكل، بس الاخير صار بطيء
+self_082,P07,Saudi,noon,mixed,نون تشكيلة منتجات حلوه و الاسعار معقوله، بس التوصيل يتاخر
+self_083,P07,Saudi,careem,negative,كريم صار يتراجع، كنت اعتمد عليه كثير و الحين ما عاد زين
+self_084,P07,Saudi,talabat,positive,طلبات التجربه حلوه، الطلب بوقته و الكميه كامله و الموظف محترم
+self_085,P07,Saudi,careem,mixed,كريم سواقينه ممتازين، بس التطبيق يعلق و يطلع سعر غريب
+self_086,P07,Saudi,noon,mixed,نون ما وصلوا لمستوى طلبات في التوصيل، بس عندهم منتجات اكثر
+self_087,P07,Saudi,talabat,positive,لقيت عرض حلو في طلبات و الاكل وصل بسرعه و كان لذيذ
+self_088,P07,Saudi,careem,positive,كريم تجاربي معه كثيره و مختلفه، الايجابيه اكثر من السلبيه
+self_089,P07,Saudi,noon,negative,نون المشكله مو في التطبيق، المشكله المندوبين يتاخرون او يلغون
+self_090,P07,Saudi,talabat,positive,طلبات فيه نقاط حلوه، الواجهه سهله و الدفع سريع
+self_091,P07,Saudi,careem,mixed,كريم كان عنده حجز مسبق حلو، ضاع مع دمجهم مع اوبر
+self_092,P07,Saudi,noon,negative,نون محبطه في المرات الاخيره، التوصيل و الدفع و الاسترجاع كله فيه مشاكل
+self_093,P07,Saudi,talabat,positive,طلبات من افضل التطبيقات انصح فيه للي يدور توصيل موثوق 👍
+self_094,P07,Saudi,careem,mixed,كريم ما اقدر استغني عنه و اسافر وايد، بس الاسعار تتغير
+self_095,P07,Saudi,talabat,negative,نصب و ما كملت
+self_096,P07,Saudi,talabat,negative,التطبيق وايد ثقل
+self_097,P08,Oman,talabat,positive,حلو التطبيق، التوصل وصلني بسرعه و الاكل حار
+self_098,P08,Oman,talabat,negative,كثير غالي، ما اقدر اطلب كل يوم مثل قبل
+self_099,P08,Oman,noon,positive,الحين التطبيق يتحسن شوي شوي، يعطيهم العافيه
+self_100,P08,Oman,noon,negative,كثر ما يوصلني الطلب ناقص، تعبت من هالشي
+self_101,P08,Oman,careem,mixed,تدري، كريم تطبيق كويس بس الاسعار تطلع غاليه احيانا
+self_102,P08,Oman,careem,positive,حلو السواقين و خدمه سريعه، انصح فيه
+self_103,P08,Oman,talabat,negative,صراحه الطلبات من المطعم تجي متاخره و احيانا بارده
+self_104,P08,Oman,talabat,negative,التطبيق فيه مشكله في تسجيل الدخول، كل ما احاول يديني ايرور
+self_105,P08,Oman,noon,positive,كثر خير عليهم، خدمه ٥ نجوم
+self_106,P08,Oman,talabat,negative,ما ني راضي عن التطبيق، صار كل شوي يعلق
+self_107,P08,Oman,careem,positive,هالتطبيق احسن من الباقين بصراحه
+self_108,P08,Oman,noon,negative,الحين صار عندي مشكله في حسابي ما اقدر ادفع
+self_109,P09,Kuwait,talabat,positive,التطبيق زين و الحمدلله
+self_110,P09,Kuwait,noon,negative,ليش الطلب صار غالي مره
+self_111,P09,Kuwait,talabat,neutral,ماشي، ما عندي مشاكل قويه
+self_112,P09,Kuwait,noon,positive,كفو
+self_113,P09,Kuwait,talabat,negative,شنو هذا التطبيق صراحه، ما يفهم
+self_114,P09,Kuwait,careem,positive,خلاص تمام، كل شي ماشي
+self_115,P09,Kuwait,noon,negative,ما يصير التطبيق، كل مره يعلق
+self_116,P09,Kuwait,talabat,neutral,طيب ماشي
+self_117,P09,Kuwait,careem,positive,يبه حلو للمشاوير القريبه
+self_118,P09,Kuwait,talabat,negative,خرا التوصيل صار متاخر مره
+self_119,P09,Kuwait,noon,mixed,زين بس بطيء
+self_120,P09,Kuwait,noon,positive,خوش تطبيق، التوصيل وصلني بسرعه و كل شي على ما يرام
